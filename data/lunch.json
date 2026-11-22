@@ -1057,12 +1057,12 @@
       "showReference": false,
       "category": "postres",
       "name": {
-        "es": "Helado con gyoza",
-        "en": "Ice cream with gyoza"
+        "es": "Gyoza de manzana con helado",
+        "en": "Apple gyoza with ice cream"
       },
       "description": {
-        "es": "Helado acompañado de gyoza.",
-        "en": "Ice cream served with gyoza."
+        "es": "Helado acompañado de gyoza de manzana.",
+        "en": "Ice cream served with apple gyoza."
       },
       "image": "assets/dishes/lunch-helado-con-gyoza.webp",
       "portion": {

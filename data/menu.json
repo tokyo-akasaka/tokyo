@@ -25,7 +25,7 @@
     "buffetStars": 2,
     "twoPersons": true,
     "isNew": false,
-    "price": 5.8,
+    "price": 8,
     "image": "assets/dishes/tokyo-e6.webp"
   },
   {
@@ -417,12 +417,12 @@
       "en": "Gyoza tori"
     },
     "description": {
-      "es": "Ravioli frito de pollo y verduras.4U.",
-      "en": "Fried chicken and vegetable ravioli. 4U."
+      "es": "Ravioli frito de pollo y verduras.",
+      "en": "Fried chicken and vegetable ravioli."
     },
     "portion": {
-      "es": "",
-      "en": ""
+      "es": "5 und",
+      "en": "5 pcs"
     },
     "allergens": [
       "soy",
@@ -3749,12 +3749,12 @@
       "en": "Huevo de chocolate blanco y mango"
     },
     "description": {
-      "es": "Mousse de choc. blanc. con coulis de mango/95gaa",
-      "en": "Chocolate mousse. white with mango coulis/95g"
+      "es": "Mousse de choc. blanc. con coulis de mango",
+      "en": "Chocolate mousse. white with mango coulis"
     },
     "portion": {
-      "es": "",
-      "en": ""
+      "es": "95g",
+      "en": "95g"
     },
     "allergens": [
       "milk",
