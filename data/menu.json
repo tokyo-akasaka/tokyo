@@ -43,7 +43,12 @@
       "es": "",
       "en": ""
     },
-    "allergens": null,
+    "allergens": [
+      "mustard",
+      "gluten",
+      "egg",
+      "soy"
+    ],
     "sourcePage": 2,
     "sourceDocument": "Revista TOKYO - 20260929.pdf",
     "buffetStars": 0,
@@ -239,7 +244,14 @@
       "es": "",
       "en": ""
     },
-    "allergens": null,
+    "allergens": [
+      "gluten",
+      "sulphites",
+      "sesame",
+      "fish",
+      "soy",
+      "mustard"
+    ],
     "sourcePage": 3,
     "sourceDocument": "Revista TOKYO - 20260929.pdf",
     "buffetStars": 0,
@@ -263,7 +275,15 @@
       "es": "",
       "en": ""
     },
-    "allergens": null,
+    "allergens": [
+      "soy",
+      "fish",
+      "gluten",
+      "sesame",
+      "sulphites",
+      "crustaceans",
+      "mustard"
+    ],
     "sourcePage": 3,
     "sourceDocument": "Revista TOKYO - 20260929.pdf",
     "buffetStars": 0,
@@ -344,7 +364,14 @@
       "es": "",
       "en": ""
     },
-    "allergens": null,
+    "allergens": [
+      "soy",
+      "fish",
+      "gluten",
+      "sesame",
+      "sulphites",
+      "mustard"
+    ],
     "sourcePage": 4,
     "sourceDocument": "Revista TOKYO - 20260929.pdf",
     "buffetStars": 0,
@@ -368,7 +395,12 @@
       "es": "",
       "en": ""
     },
-    "allergens": null,
+    "allergens": [
+      "soy",
+      "sulphites",
+      "mustard",
+      "sesame"
+    ],
     "sourcePage": 4,
     "sourceDocument": "Revista TOKYO - 20260929.pdf",
     "buffetStars": 0,
@@ -579,7 +611,10 @@
     "twoPersons": false,
     "isNew": false,
     "price": 6.5,
-    "image": "assets/dishes/tokyo-e28.webp"
+    "image": "assets/dishes/e28-tokyo-original.webp",
+    "imagePosition": "50% 50%",
+    "imageFilter": "sepia(.08) saturate(1.05) hue-rotate(-5deg)",
+    "imageZoom": 1
   },
   {
     "reference": "S112",
@@ -773,7 +808,9 @@
     "twoPersons": false,
     "isNew": false,
     "price": 10.8,
-    "image": "assets/dishes/tokyo-ud148.webp"
+    "image": "assets/dishes/ud148-tokyo-original.webp",
+    "imagePosition": "50% 50%",
+    "imageFilter": "none"
   },
   {
     "reference": "SM108",
@@ -1032,7 +1069,11 @@
     "twoPersons": false,
     "isNew": false,
     "price": 14.8,
-    "image": "assets/dishes/tokyo-ud149.webp"
+    "image": "assets/dishes/ud149-tokyo-original.webp",
+    "imagePosition": "50% 50%",
+    "imageFilter": "saturate(1.12) brightness(1.03)",
+    "imageZoom": 1.7825,
+    "imageOffsetX": -20
   },
   {
     "reference": "SH30",
@@ -1136,7 +1177,8 @@
     "twoPersons": true,
     "isNew": false,
     "price": 8.0,
-    "image": "assets/dishes/tokyo-sh36.webp"
+    "image": "assets/dishes/tokyo-sh36.webp",
+    "spicy": true
   },
   {
     "reference": "SH38",
@@ -1162,7 +1204,8 @@
     "twoPersons": false,
     "isNew": false,
     "price": 6.0,
-    "image": "assets/dishes/tokyo-sh38.webp"
+    "image": "assets/dishes/tokyo-sh38.webp",
+    "spicy": true
   },
   {
     "reference": "SH40",
@@ -1404,7 +1447,9 @@
     "twoPersons": false,
     "isNew": false,
     "price": 5.5,
-    "image": "assets/dishes/tokyo-sh44.webp"
+    "image": "assets/dishes/sh44-tokyo-reviewed.webp",
+    "imagePosition": "50% 50%",
+    "imageFilter": "none"
   },
   {
     "reference": "SH46",
@@ -1457,7 +1502,9 @@
     "twoPersons": true,
     "isNew": false,
     "price": 8.0,
-    "image": "assets/dishes/tokyo-sh48.webp"
+    "image": "assets/dishes/sh48-tokyo-reviewed.webp",
+    "imagePosition": "50% 50%",
+    "imageFilter": "none"
   },
   {
     "reference": "SH50",
@@ -1488,7 +1535,9 @@
     "twoPersons": false,
     "isNew": false,
     "price": 5.0,
-    "image": "assets/dishes/tokyo-sh50.webp"
+    "image": "assets/dishes/sh50-tokyo-reviewed.webp",
+    "imagePosition": "50% 50%",
+    "imageFilter": "none"
   },
   {
     "reference": "SH57",
@@ -1518,7 +1567,10 @@
     "twoPersons": false,
     "isNew": false,
     "price": 15.0,
-    "image": "assets/dishes/tokyo-sh57.webp"
+    "image": "assets/dishes/sh57-tokyo-original.webp",
+    "imagePosition": "50% 50%",
+    "imageFilter": "none",
+    "imageZoom": 1
   },
   {
     "reference": "SH43",
@@ -1547,7 +1599,10 @@
     "twoPersons": false,
     "isNew": false,
     "price": 6.0,
-    "image": "assets/dishes/tokyo-sh43.webp"
+    "image": "assets/dishes/sh43-tokyo-reviewed.webp",
+    "imagePosition": "50% 50%",
+    "imageFilter": "none",
+    "imageZoom": 1.15
   },
   {
     "reference": "SH45",
@@ -1574,7 +1629,10 @@
     "twoPersons": false,
     "isNew": false,
     "price": 5.0,
-    "image": "assets/dishes/tokyo-sh45.webp"
+    "image": "assets/dishes/sh45-tokyo-reviewed.webp",
+    "imagePosition": "50% 50%",
+    "imageFilter": "none",
+    "imageZoom": 1.1
   },
   {
     "reference": "SH47",
@@ -1600,7 +1658,10 @@
     "twoPersons": true,
     "isNew": false,
     "price": 8.0,
-    "image": "assets/dishes/tokyo-sh47.webp"
+    "image": "assets/dishes/sh47-tokyo-reviewed.webp",
+    "imagePosition": "50% 50%",
+    "imageFilter": "none",
+    "imageZoom": 1.22
   },
   {
     "reference": "SH49",
@@ -1627,7 +1688,10 @@
     "twoPersons": false,
     "isNew": false,
     "price": 6.0,
-    "image": "assets/dishes/tokyo-sh49.webp"
+    "image": "assets/dishes/sh49-tokyo-reviewed.webp",
+    "imagePosition": "50% 28%",
+    "imageFilter": "none",
+    "imageZoom": 1.3
   },
   {
     "reference": "SH56",
@@ -1655,7 +1719,11 @@
     "twoPersons": false,
     "isNew": false,
     "price": 4.5,
-    "image": "assets/dishes/tokyo-sh56.webp"
+    "image": "assets/dishes/sh56-tokyo-inari.webp",
+    "imagePosition": "50% 60%",
+    "imageFilter": "none",
+    "imageZoom": 1.22,
+    "imageOffsetX": 10
   },
   {
     "reference": "SH58",
@@ -1684,7 +1752,9 @@
     "twoPersons": true,
     "isNew": false,
     "price": 5.0,
-    "image": "assets/dishes/tokyo-sh58.webp"
+    "image": "assets/dishes/sh58-tokyo-reviewed.webp",
+    "imagePosition": "50% 50%",
+    "imageFilter": "none"
   },
   {
     "reference": "HM79",
@@ -1734,7 +1804,10 @@
     "twoPersons": false,
     "isNew": false,
     "price": 5.0,
-    "image": "assets/dishes/tokyo-hm81.webp"
+    "image": "assets/dishes/hm81-tokyo-reviewed.webp",
+    "imagePosition": "50% 50%",
+    "imageFilter": "none",
+    "imageZoom": 1.2
   },
   {
     "reference": "HM83",
@@ -1765,7 +1838,10 @@
     "twoPersons": false,
     "isNew": false,
     "price": 10.0,
-    "image": "assets/dishes/tokyo-hm83.webp"
+    "image": "assets/dishes/hm83-tokyo-reviewed.webp",
+    "imagePosition": "50% 50%",
+    "imageFilter": "none",
+    "imageZoom": 1.1
   },
   {
     "reference": "HM85",
@@ -1791,7 +1867,9 @@
     "twoPersons": false,
     "isNew": false,
     "price": 10.0,
-    "image": "assets/dishes/tokyo-hm85.webp"
+    "image": "assets/dishes/hm85-tokyo-reviewed.webp",
+    "imagePosition": "50% 50%",
+    "imageFilter": "none"
   },
   {
     "reference": "HM87",
@@ -1817,7 +1895,10 @@
     "twoPersons": false,
     "isNew": false,
     "price": 6.0,
-    "image": "assets/dishes/tokyo-hm87.webp"
+    "image": "assets/dishes/hm87-tokyo-reviewed.webp",
+    "imagePosition": "50% 50%",
+    "imageFilter": "none",
+    "imageZoom": 1.15
   },
   {
     "reference": "HM80",
@@ -1841,7 +1922,10 @@
     "twoPersons": false,
     "isNew": false,
     "price": 5.0,
-    "image": "assets/dishes/tokyo-hm80.webp"
+    "image": "assets/dishes/hm80-tokyo-reviewed.webp",
+    "imagePosition": "50% 50%",
+    "imageFilter": "none",
+    "imageZoom": 1.2
   },
   {
     "reference": "HM82",
@@ -1867,7 +1951,10 @@
     "twoPersons": false,
     "isNew": false,
     "price": 8.0,
-    "image": "assets/dishes/tokyo-hm82.webp"
+    "image": "assets/dishes/hm82-tokyo-reviewed.webp",
+    "imagePosition": "50% 50%",
+    "imageFilter": "none",
+    "imageZoom": 1.2
   },
   {
     "reference": "HM84",
@@ -1894,7 +1981,9 @@
     "twoPersons": false,
     "isNew": false,
     "price": 8.0,
-    "image": "assets/dishes/tokyo-hm84.webp"
+    "image": "assets/dishes/hm84-tokyo-reviewed.webp",
+    "imagePosition": "50% 50%",
+    "imageFilter": "none"
   },
   {
     "reference": "HM86",
@@ -1922,7 +2011,9 @@
     "twoPersons": false,
     "isNew": false,
     "price": 8.0,
-    "image": "assets/dishes/tokyo-hm86.webp"
+    "image": "assets/dishes/hm86-tokyo-reviewed.webp",
+    "imagePosition": "50% 50%",
+    "imageFilter": "none"
   },
   {
     "reference": "HM77",
@@ -1950,7 +2041,11 @@
     "twoPersons": false,
     "isNew": false,
     "price": 12.0,
-    "image": "assets/dishes/tokyo-hm77.webp"
+    "spicy": true,
+    "image": "assets/dishes/hm77-tokyo-reviewed.webp",
+    "imagePosition": "50% 50%",
+    "imageFilter": "none",
+    "imageZoom": 1.26
   },
   {
     "reference": "TK51",
@@ -2553,7 +2648,8 @@
     "twoPersons": false,
     "isNew": false,
     "price": 12.0,
-    "image": "assets/dishes/tokyo-rs76.webp"
+    "image": "assets/dishes/tokyo-rs76.webp",
+    "spicy": true
   },
   {
     "reference": "RS78",
@@ -2581,7 +2677,8 @@
     "twoPersons": false,
     "isNew": false,
     "price": 12.0,
-    "image": "assets/dishes/tokyo-rs78.webp"
+    "image": "assets/dishes/tokyo-rs78.webp",
+    "spicy": true
   },
   {
     "reference": "CR91",
@@ -2657,7 +2754,13 @@
       "es": "",
       "en": ""
     },
-    "allergens": null,
+    "allergens": [
+      "gluten",
+      "soy",
+      "sesame",
+      "sulphites",
+      "mustard"
+    ],
     "sourcePage": 16,
     "sourceDocument": "Revista TOKYO - 20260929.pdf",
     "buffetStars": 2,
@@ -2940,7 +3043,8 @@
     "twoPersons": false,
     "isNew": false,
     "price": 14.0,
-    "image": "assets/dishes/tokyo-cr129.webp"
+    "image": "assets/dishes/tokyo-cr129.webp",
+    "spicy": true
   },
   {
     "reference": "CR117",
@@ -3284,7 +3388,8 @@
     "twoPersons": false,
     "isNew": false,
     "price": 14.0,
-    "image": "assets/dishes/tokyo-cr138.webp"
+    "image": "assets/dishes/tokyo-cr138.webp",
+    "spicy": true
   },
   {
     "reference": "CR139",
@@ -3313,7 +3418,8 @@
     "twoPersons": false,
     "isNew": false,
     "price": 14.0,
-    "image": "assets/dishes/tokyo-cr139.webp"
+    "image": "assets/dishes/tokyo-cr139.webp",
+    "spicy": true
   },
   {
     "reference": "PS180",
@@ -3455,7 +3561,12 @@
     "twoPersons": false,
     "isNew": false,
     "price": 6.8,
-    "image": "assets/dishes/tokyo-ps186.webp"
+    "image": "assets/dishes/ps186-tokyo-reviewed.webp",
+    "imagePosition": "50% 50%",
+    "imageFilter": "none",
+    "imageZoom": 1.2,
+    "imageOffsetY": 10,
+    "imageOffsetX": 10
   },
   {
     "reference": "PS191",
@@ -3472,9 +3583,7 @@
       "es": "",
       "en": ""
     },
-    "allergens": [
-      "gluten"
-    ],
+    "allergens": [],
     "sourcePage": 22,
     "sourceDocument": "Revista TOKYO - 20260929.pdf",
     "buffetStars": 0,
@@ -3582,7 +3691,6 @@
     "allergens": [
       "peanuts",
       "egg",
-      "gluten",
       "milk",
       "soy"
     ],
@@ -3592,7 +3700,8 @@
     "twoPersons": false,
     "isNew": false,
     "price": 4.8,
-    "image": "assets/dishes/tokyo-ps190.webp"
+    "image": "assets/dishes/ps190-matcha-original.webp",
+    "glutenFree": true
   },
   {
     "reference": "PS192",
@@ -3702,7 +3811,10 @@
     "twoPersons": false,
     "isNew": false,
     "price": 8.0,
-    "image": "assets/dishes/tokyo-ps194.webp"
+    "image": "assets/dishes/ps194-tokyo-reviewed.webp",
+    "imageFit": "whole-on-white",
+    "imagePosition": "50% 50%",
+    "imageFilter": "none"
   },
   {
     "reference": "PS195",
@@ -3732,7 +3844,10 @@
     "twoPersons": false,
     "isNew": false,
     "price": 8.0,
-    "image": "assets/dishes/tokyo-ps195.webp"
+    "image": "assets/dishes/ps195-tokyo-reviewed.webp",
+    "imageFit": "whole-on-white",
+    "imagePosition": "50% 50%",
+    "imageFilter": "none"
   },
   {
     "reference": "PS184",
@@ -3742,8 +3857,8 @@
       "en": "Mochi de helado"
     },
     "description": {
-      "es": "Dos unidades. Elige tu sabor: pistacho, té verde, vainilla, chocolate, yuzu, mango o frambuesa.",
-      "en": "Two pieces. Choose your flavour: pistachio, green tea, vanilla, chocolate, yuzu, mango or raspberry."
+      "es": "Dos unidades. Elige el sabor y la variedad de tu mochi.",
+      "en": "Two pieces. Choose your mochi flavour and variety."
     },
     "portion": {
       "es": "2 uds.",
@@ -3769,51 +3884,67 @@
           "es": "Pistacho",
           "en": "Pistachio"
         },
-        "image": "assets/dishes/mochi-pistacho.webp"
-      },
-      {
-        "name": {
-          "es": "Té verde",
-          "en": "Green tea"
-        },
-        "image": "assets/dishes/mochi-te-verde.webp"
-      },
-      {
-        "name": {
-          "es": "Vainilla",
-          "en": "Vanilla"
-        },
-        "image": "assets/dishes/mochi-vainilla.webp"
-      },
-      {
-        "name": {
-          "es": "Chocolate",
-          "en": "Chocolate"
-        },
-        "image": "assets/dishes/mochi-chocolate.webp"
-      },
-      {
-        "name": {
-          "es": "Yuzu",
-          "en": "Yuzu"
-        },
-        "image": "assets/dishes/mochi-yuzu.webp"
+        "image": "assets/dishes/mochi-pistacho.webp",
+        "glutenFree": true
       },
       {
         "name": {
           "es": "Mango",
           "en": "Mango"
         },
-        "image": "assets/dishes/mochi-mango.webp"
+        "image": "assets/dishes/mochi-mango.webp",
+        "glutenFree": true
+      },
+      {
+        "name": {
+          "es": "Té verde",
+          "en": "Green tea"
+        },
+        "image": "assets/dishes/mochi-te-verde.webp",
+        "glutenFree": false
+      },
+      {
+        "name": {
+          "es": "Vainilla",
+          "en": "Vanilla"
+        },
+        "image": "assets/dishes/mochi-vainilla.webp",
+        "glutenFree": false
+      },
+      {
+        "name": {
+          "es": "Chocolate",
+          "en": "Chocolate"
+        },
+        "image": "assets/dishes/mochi-chocolate.webp",
+        "glutenFree": false
+      },
+      {
+        "name": {
+          "es": "Yuzu",
+          "en": "Yuzu"
+        },
+        "image": "assets/dishes/mochi-yuzu.webp",
+        "glutenFree": false
+      },
+      {
+        "name": {
+          "es": "Mango",
+          "en": "Mango"
+        },
+        "image": "assets/dishes/mochi-mango-con-gluten.webp",
+        "glutenFree": false
       },
       {
         "name": {
           "es": "Frambuesa",
           "en": "Raspberry"
         },
-        "image": "assets/dishes/mochi-frambuesa.webp"
+        "image": "assets/dishes/mochi-frambuesa.webp",
+        "glutenFree": false
       }
     ],
-    "image": "assets/dishes/mochi-pistacho.webp"
+    "image": "assets/dishes/mochi-pistacho.webp",
+    "allergenScope": "flavour"
   }
 ]

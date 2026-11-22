@@ -1,0 +1,317 @@
+{
+  "note": "24 fotografías verificadas en móvil y escritorio. Solo se modifican fotos y encuadres; los datos de platos permanecen independientes. E28 también comparte el encuadre en comida/cena.",
+  "photos": [
+    {
+      "reference": "E28",
+      "source": "material_base/Carpeta Revista TOKYO - 20260929/Links/E28.psd",
+      "image": "assets/dishes/e28-tokyo-original.webp",
+      "method": "Original suelto de TOKYO, sin reconstruir comida; encuadre completo.",
+      "crop": [
+        580,
+        430,
+        2330,
+        2190
+      ],
+      "settings": {
+        "image": "assets/dishes/e28-tokyo-original.webp",
+        "imagePosition": "50% 50%",
+        "imageFilter": "none",
+        "imageFit": "original-zoom-out"
+      }
+    },
+    {
+      "reference": "UD148",
+      "source": "material_base/Carpeta Revista TOKYO - 20260929/Links/WhatsApp Image 2022-03-21 at 22.58.01.jpeg",
+      "image": "assets/dishes/ud148-tokyo-original.webp",
+      "method": "Original suelto de TOKYO, sin reconstruir comida; encuadre completo.",
+      "settings": {
+        "image": "assets/dishes/ud148-tokyo-original.webp",
+        "imagePosition": "50% 50%",
+        "imageFilter": "none",
+        "imageFit": "original-zoom-out"
+      }
+    },
+    {
+      "reference": "UD149",
+      "sourceReference": "UD148",
+      "source": "/Users/basiliocristov/IH todo recovery/IH clientes recovery/TOKYO_AKASAKA_OCHA-YAKI /akasaka_web/assets/dishes/ud148-original.webp",
+      "image": "assets/dishes/ud149-tokyo-original.webp",
+      "method": "Arroz trufado: misma fotografía, referencia distinta.",
+      "settings": {
+        "image": "assets/dishes/ud149-tokyo-original.webp",
+        "imagePosition": "50% 50%",
+        "imageFilter": "saturate(1.12) brightness(1.03)",
+        "imageZoom": 1.7825,
+        "imageOffsetX": -20
+      }
+    },
+    {
+      "reference": "SH44",
+      "sourceReference": "SH044",
+      "source": "/Users/basiliocristov/IH todo recovery/IH clientes recovery/TOKYO_AKASAKA_OCHA-YAKI /akasaka_web/assets/dishes/sh044-centered-original.webp",
+      "image": "assets/dishes/sh44-tokyo-reviewed.webp",
+      "method": "Misma fotografía y ajustes revisados de Akasaka.",
+      "settings": {
+        "image": "assets/dishes/sh44-tokyo-reviewed.webp",
+        "imagePosition": "50% 50%",
+        "imageFilter": "none"
+      }
+    },
+    {
+      "reference": "SH48",
+      "sourceReference": "SH48",
+      "source": "/Users/basiliocristov/IH todo recovery/IH clientes recovery/TOKYO_AKASAKA_OCHA-YAKI /akasaka_web/assets/dishes/sh48-crop-original.webp",
+      "image": "assets/dishes/sh48-tokyo-reviewed.webp",
+      "method": "Misma fotografía y ajustes revisados de Akasaka.",
+      "settings": {
+        "image": "assets/dishes/sh48-tokyo-reviewed.webp",
+        "imagePosition": "50% 50%",
+        "imageFilter": "none"
+      }
+    },
+    {
+      "reference": "SH50",
+      "sourceReference": "SH50",
+      "source": "/Users/basiliocristov/IH todo recovery/IH clientes recovery/TOKYO_AKASAKA_OCHA-YAKI /akasaka_web/assets/dishes/sh50-crop-original.webp",
+      "image": "assets/dishes/sh50-tokyo-reviewed.webp",
+      "method": "Misma fotografía y ajustes revisados de Akasaka.",
+      "settings": {
+        "image": "assets/dishes/sh50-tokyo-reviewed.webp",
+        "imagePosition": "50% 50%",
+        "imageFilter": "none"
+      }
+    },
+    {
+      "reference": "SH43",
+      "sourceReference": "SH43",
+      "source": "/Users/basiliocristov/IH todo recovery/IH clientes recovery/TOKYO_AKASAKA_OCHA-YAKI /akasaka_web/assets/dishes/sh43-crop-original.webp",
+      "image": "assets/dishes/sh43-tokyo-reviewed.webp",
+      "method": "Misma fotografía y ajustes revisados de Akasaka.",
+      "settings": {
+        "image": "assets/dishes/sh43-tokyo-reviewed.webp",
+        "imagePosition": "50% 50%",
+        "imageFilter": "none",
+        "imageZoom": 1.15
+      }
+    },
+    {
+      "reference": "SH45",
+      "sourceReference": "SH45",
+      "source": "/Users/basiliocristov/IH todo recovery/IH clientes recovery/TOKYO_AKASAKA_OCHA-YAKI /akasaka_web/assets/dishes/sh45-crop-original.webp",
+      "image": "assets/dishes/sh45-tokyo-reviewed.webp",
+      "method": "Misma fotografía y ajustes revisados de Akasaka.",
+      "settings": {
+        "image": "assets/dishes/sh45-tokyo-reviewed.webp",
+        "imagePosition": "50% 50%",
+        "imageFilter": "none",
+        "imageZoom": 1.1
+      }
+    },
+    {
+      "reference": "SH47",
+      "sourceReference": "SH47",
+      "source": "/Users/basiliocristov/IH todo recovery/IH clientes recovery/TOKYO_AKASAKA_OCHA-YAKI /akasaka_web/assets/dishes/sh47-fondo-nigiri.webp",
+      "image": "assets/dishes/sh47-tokyo-reviewed.webp",
+      "method": "Misma fotografía y ajustes revisados de Akasaka.",
+      "settings": {
+        "image": "assets/dishes/sh47-tokyo-reviewed.webp",
+        "imagePosition": "50% 50%",
+        "imageFilter": "none",
+        "imageZoom": 1.22
+      }
+    },
+    {
+      "reference": "SH49",
+      "sourceReference": "SH49",
+      "source": "/Users/basiliocristov/IH todo recovery/IH clientes recovery/TOKYO_AKASAKA_OCHA-YAKI /akasaka_web/assets/dishes/sh49-crop-original.webp",
+      "image": "assets/dishes/sh49-tokyo-reviewed.webp",
+      "method": "Misma fotografía y ajustes revisados de Akasaka.",
+      "settings": {
+        "image": "assets/dishes/sh49-tokyo-reviewed.webp",
+        "imagePosition": "50% 50%",
+        "imageFilter": "none",
+        "imageZoom": 1.15
+      }
+    },
+    {
+      "reference": "SH57",
+      "source": "material_base/Carpeta Revista TOKYO - 20260929/Links/57 OCHA-YAKI.psd",
+      "image": "assets/dishes/sh57-tokyo-original.webp",
+      "method": "Original propio de TOKYO: cinco piezas. No se usa la composición distinta de Akasaka.",
+      "settings": {
+        "image": "assets/dishes/sh57-tokyo-original.webp",
+        "imagePosition": "50% 50%",
+        "imageFilter": "none",
+        "imageFit": "original-zoom-out"
+      }
+    },
+    {
+      "reference": "HM81",
+      "sourceReference": "HM81",
+      "source": "/Users/basiliocristov/IH todo recovery/IH clientes recovery/TOKYO_AKASAKA_OCHA-YAKI /akasaka_web/assets/dishes/hm81-centered-original.webp",
+      "image": "assets/dishes/hm81-tokyo-reviewed.webp",
+      "method": "Misma fotografía y ajustes revisados de Akasaka.",
+      "settings": {
+        "image": "assets/dishes/hm81-tokyo-reviewed.webp",
+        "imagePosition": "50% 50%",
+        "imageFilter": "none"
+      }
+    },
+    {
+      "reference": "HM83",
+      "sourceReference": "HM83",
+      "source": "/Users/basiliocristov/IH todo recovery/IH clientes recovery/TOKYO_AKASAKA_OCHA-YAKI /akasaka_web/assets/dishes/hm83-centered-original.webp",
+      "image": "assets/dishes/hm83-tokyo-reviewed.webp",
+      "method": "Misma fotografía y ajustes revisados de Akasaka.",
+      "settings": {
+        "image": "assets/dishes/hm83-tokyo-reviewed.webp",
+        "imagePosition": "50% 50%",
+        "imageFilter": "none"
+      }
+    },
+    {
+      "reference": "HM85",
+      "sourceReference": "HM85",
+      "source": "/Users/basiliocristov/IH todo recovery/IH clientes recovery/TOKYO_AKASAKA_OCHA-YAKI /akasaka_web/assets/dishes/hm85-centered-original.webp",
+      "image": "assets/dishes/hm85-tokyo-reviewed.webp",
+      "method": "Misma fotografía y ajustes revisados de Akasaka.",
+      "settings": {
+        "image": "assets/dishes/hm85-tokyo-reviewed.webp",
+        "imagePosition": "50% 50%",
+        "imageFilter": "none"
+      }
+    },
+    {
+      "reference": "HM87",
+      "sourceReference": "HM87",
+      "source": "/Users/basiliocristov/IH todo recovery/IH clientes recovery/TOKYO_AKASAKA_OCHA-YAKI /akasaka_web/assets/dishes/hm87-centered-original.webp",
+      "image": "assets/dishes/hm87-tokyo-reviewed.webp",
+      "method": "Misma fotografía y ajustes revisados de Akasaka.",
+      "settings": {
+        "image": "assets/dishes/hm87-tokyo-reviewed.webp",
+        "imagePosition": "50% 50%",
+        "imageFilter": "none"
+      }
+    },
+    {
+      "reference": "HM80",
+      "sourceReference": "HM80",
+      "source": "/Users/basiliocristov/IH todo recovery/IH clientes recovery/TOKYO_AKASAKA_OCHA-YAKI /akasaka_web/assets/dishes/hm80-centered-original.webp",
+      "image": "assets/dishes/hm80-tokyo-reviewed.webp",
+      "method": "Misma fotografía y ajustes revisados de Akasaka.",
+      "settings": {
+        "image": "assets/dishes/hm80-tokyo-reviewed.webp",
+        "imagePosition": "50% 50%",
+        "imageFilter": "none"
+      }
+    },
+    {
+      "reference": "HM82",
+      "sourceReference": "HM82",
+      "source": "/Users/basiliocristov/IH todo recovery/IH clientes recovery/TOKYO_AKASAKA_OCHA-YAKI /akasaka_web/assets/dishes/hm82-centered-original.webp",
+      "image": "assets/dishes/hm82-tokyo-reviewed.webp",
+      "method": "Misma fotografía y ajustes revisados de Akasaka.",
+      "settings": {
+        "image": "assets/dishes/hm82-tokyo-reviewed.webp",
+        "imagePosition": "50% 50%",
+        "imageFilter": "none"
+      }
+    },
+    {
+      "reference": "HM86",
+      "sourceReference": "HM86",
+      "source": "/Users/basiliocristov/IH todo recovery/IH clientes recovery/TOKYO_AKASAKA_OCHA-YAKI /akasaka_web/assets/dishes/hm86-centered-original.webp",
+      "image": "assets/dishes/hm86-tokyo-reviewed.webp",
+      "method": "Misma fotografía y ajustes revisados de Akasaka.",
+      "settings": {
+        "image": "assets/dishes/hm86-tokyo-reviewed.webp",
+        "imagePosition": "50% 50%",
+        "imageFilter": "none",
+        "imageFit": "whole-on-white"
+      }
+    },
+    {
+      "reference": "HM77",
+      "sourceReference": "HM77",
+      "source": "/Users/basiliocristov/IH todo recovery/IH clientes recovery/TOKYO_AKASAKA_OCHA-YAKI /akasaka_web/assets/dishes/hm77-centered-original.webp",
+      "image": "assets/dishes/hm77-tokyo-reviewed.webp",
+      "method": "Misma fotografía y ajustes revisados de Akasaka.",
+      "settings": {
+        "image": "assets/dishes/hm77-tokyo-reviewed.webp",
+        "imagePosition": "50% 50%",
+        "imageFilter": "none",
+        "imageZoom": 1.08
+      }
+    },
+    {
+      "reference": "PS186",
+      "sourceReference": "PS186",
+      "source": "/Users/basiliocristov/IH todo recovery/IH clientes recovery/TOKYO_AKASAKA_OCHA-YAKI /akasaka_web/assets/dishes/ps186-centered-original.webp",
+      "image": "assets/dishes/ps186-tokyo-reviewed.webp",
+      "method": "Misma fotografía y ajustes revisados de Akasaka.",
+      "settings": {
+        "image": "assets/dishes/ps186-tokyo-reviewed.webp",
+        "imagePosition": "50% 50%",
+        "imageFilter": "none"
+      }
+    },
+    {
+      "reference": "PS194",
+      "sourceReference": "PS194",
+      "source": "/Users/basiliocristov/IH todo recovery/IH clientes recovery/TOKYO_AKASAKA_OCHA-YAKI /akasaka_web/assets/dishes/ps194.webp",
+      "image": "assets/dishes/ps194-tokyo-reviewed.webp",
+      "method": "Misma fotografía de Akasaka; ajuste para mostrar el postre completo.",
+      "settings": {
+        "image": "assets/dishes/ps194-tokyo-reviewed.webp",
+        "imagePosition": "50% 50%",
+        "imageFilter": "none",
+        "imageFit": "whole-on-white"
+      }
+    },
+    {
+      "reference": "PS195",
+      "sourceReference": "PS195",
+      "source": "/Users/basiliocristov/IH todo recovery/IH clientes recovery/TOKYO_AKASAKA_OCHA-YAKI /akasaka_web/assets/dishes/ps195.webp",
+      "image": "assets/dishes/ps195-tokyo-reviewed.webp",
+      "method": "Misma fotografía de Akasaka; ajuste para mostrar el postre completo.",
+      "settings": {
+        "image": "assets/dishes/ps195-tokyo-reviewed.webp",
+        "imagePosition": "50% 50%",
+        "imageFilter": "none",
+        "imageFit": "whole-on-white"
+      }
+    },
+    {
+      "reference": "SH56",
+      "source": "../akasaka_web/material_base/carta_indesign/Links/Inari sh56.png",
+      "sourceReference": "SH56",
+      "image": "assets/dishes/sh56-tokyo-inari.webp",
+      "method": "Original de Inari y mismos ajustes revisados de Akasaka.",
+      "settings": {
+        "image": "assets/dishes/sh56-tokyo-inari.webp",
+        "imagePosition": "50% 60%",
+        "imageFilter": "none",
+        "imageZoom": 1.22,
+        "imageOffsetX": 10
+      }
+    },
+    {
+      "reference": "SH58",
+      "source": "../akasaka_web/material_base/carta_indesign/Links/Captura de pantalla 2026-10-04 a las 21.19.45.png",
+      "sourceReference": "SH58",
+      "image": "assets/dishes/sh58-tokyo-reviewed.webp",
+      "method": "Misma fotografía y encuadre centrado revisado de Akasaka.",
+      "settings": {
+        "image": "assets/dishes/sh58-tokyo-reviewed.webp",
+        "imagePosition": "50% 50%",
+        "imageFilter": "none"
+      }
+    },
+    {
+      "reference": "HM84",
+      "source": "/Users/basiliocristov/IH todo recovery/IH clientes recovery/TOKYO_AKASAKA_OCHA-YAKI /akasaka_web/assets/dishes/hm84-centered-original.webp",
+      "image": "assets/dishes/hm84-tokyo-reviewed.webp",
+      "method": "Misma fotografía original preparada y encuadre de Akasaka."
+    }
+  ]
+}

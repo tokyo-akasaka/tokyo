@@ -1,0 +1,94 @@
+{
+  "Revista TOKYO - 20260929.pdf": {
+    "E3": [
+      "mustard",
+      "gluten",
+      "egg",
+      "soy"
+    ],
+    "ES12": [
+      "gluten",
+      "sulphites",
+      "sesame",
+      "fish",
+      "soy",
+      "mustard"
+    ],
+    "ES13": [
+      "soy",
+      "fish",
+      "gluten",
+      "sesame",
+      "sulphites",
+      "crustaceans",
+      "mustard"
+    ],
+    "ES17": [
+      "soy",
+      "fish",
+      "gluten",
+      "sesame",
+      "sulphites",
+      "mustard"
+    ],
+    "ES18": [
+      "soy",
+      "sulphites",
+      "mustard",
+      "sesame"
+    ],
+    "CR93": [
+      "gluten",
+      "soy",
+      "sesame",
+      "sulphites",
+      "mustard"
+    ],
+    "PS191": [],
+    "PS190": [
+      "peanuts",
+      "egg",
+      "milk",
+      "soy"
+    ]
+  },
+  "TOKYO MENU COMIDA O CENA.pdf": {
+    "E3": [
+      "mustard",
+      "gluten",
+      "egg",
+      "soy"
+    ],
+    "ES12": [
+      "gluten",
+      "sulphites",
+      "sesame",
+      "fish",
+      "soy"
+    ],
+    "ES13": [
+      "soy",
+      "fish",
+      "gluten",
+      "sesame",
+      "sulphites",
+      "crustaceans",
+      "egg"
+    ],
+    "ES17": [
+      "soy",
+      "fish",
+      "egg",
+      "gluten",
+      "sesame",
+      "sulphites"
+    ],
+    "ES18": [
+      "soy",
+      "sulphites",
+      "egg",
+      "mustard",
+      "sesame"
+    ]
+  }
+}

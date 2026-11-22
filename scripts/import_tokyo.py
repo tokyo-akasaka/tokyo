@@ -35,6 +35,10 @@ def allergens(page,box):
 
 def import_pdf(filename,lunch=False):
     source=ROOT/'material_base'/filename; rendered=pdfium.PdfDocument(str(source));dishes=[];audit=[]
+    # Correcciones verificadas visualmente: no inferir símbolos por ingredientes
+    # ni reutilizar listas entre documentos con recetas o símbolos distintos.
+    verified_path=ROOT/'docs/verified-allergens.json'
+    verified=json.loads(verified_path.read_text()).get(filename,{}) if verified_path.exists() else {}
     with pdfplumber.open(source) as doc:
         for idx,page in enumerate(doc.pages):
             num=idx+1
@@ -66,6 +70,8 @@ def import_pdf(filename,lunch=False):
                     if not lunch and not prices:raise ValueError(('Missing price',num,ref,text(chars)))
                     category='primeros' if lunch and num<=5 else 'segundos' if lunch and num<=7 else 'sushi' if lunch else ('entrantes' if num<=5 else 'sopa' if num==6 and ref.startswith('S') else 'ramen' if num==6 or ref=='UD148' else 'poke' if num==7 else 'arroz' if num==8 else 'nigiri' if num<=10 else 'hosomaki' if num==11 else 'temaki' if num==12 else 'rollitos' if num<=15 else 'carpaccio' if num==16 else 'sashimi' if num==17 and ref.startswith('SM') else 'tartar' if num==17 else 'carnes' if num<=19 else 'pescado' if num<=21 else 'postres')
                     allergy,unknown=allergens(page,(x0,top,x1,bottom))
+                    if ref in verified:
+                        allergy=list(verified[ref]);unknown=[]
                     dish={'reference':ref,'category':category,'name':{'es':title.capitalize(),'en':title.capitalize()},'description':{'es':es,'en':en or es},'portion':{'es':'','en':''},'allergens':allergy,'sourcePage':num,'sourceDocument':filename,'buffetStars':0,'twoPersons':False,'isNew':False}
                     if not lunch:dish['price']=float(prices[0].replace(',','.'))
                     # Las estrellas son los trazados amarillos de la cabecera de cada plato.

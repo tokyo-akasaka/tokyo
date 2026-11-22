@@ -32,7 +32,7 @@ const base=process.env.TOKYO_PREVIEW_URL||'http://127.0.0.1:8021';
    await page.locator('#theme-toggle').click();
   }
   if(mode==='carta'){
-   await page.locator('#dish-PS184').getByRole('button',{name:'Mango',exact:true}).click();assert.match(await page.locator('#dish-PS184 .dish-media img').getAttribute('src'),/mochi-mango/);
+   await page.locator('#dish-PS184').getByRole('button',{name:'Mango · Sin gluten',exact:true}).click();assert.match(await page.locator('#dish-PS184 .dish-media img').getAttribute('src'),/mochi-mango/);
    await page.locator('#dish-E6 .allergen-button').click();assert.equal(await page.locator('#allergens-E6').isVisible(),true);
   }
  }

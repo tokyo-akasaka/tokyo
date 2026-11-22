@@ -1,25 +1,13 @@
 {
   "allergensAwaitingReview": {
-    "carta": [
-      "E3",
-      "ES12",
-      "ES13",
-      "ES17",
-      "ES18",
-      "CR93"
-    ],
+    "carta": [],
     "comidaCena": [
       "E6",
       "E21",
-      "E3",
       "ES20",
       "E5",
       "E28",
       "GY22",
-      "ES17",
-      "ES18",
-      "ES12",
-      "ES13",
       "GY23",
       "DR106"
     ]
@@ -38,12 +26,12 @@
       "issue": "La misma referencia identifica langostinos Thai en carta y Ebi Chili en menú comida/cena. Se mantienen recetas separadas."
     },
     {
-      "reference": "PS191",
-      "issue": "El PDF muestra un símbolo de gluten junto a piña natural. Se conserva la información impresa; confirmar con restaurante."
-    },
-    {
       "reference": "PS184",
       "issue": "El original contiene dos opciones de mango (con/sin gluten). Se muestra mango sin afirmar ausencia de alérgenos; confirmar variantes y alérgenos por sabor."
     }
-  ]
+  ],
+  "allergensVerifiedFromSource": {
+    "records": "docs/verified-allergens.json",
+    "note": "Listas contrastadas visualmente con cada PDF. La carta y el menú comida/cena muestran diferencias y se conservan separadas."
+  }
 }

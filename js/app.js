@@ -9,6 +9,12 @@ let language=initialLanguage(), data,activeCategory;
 let mealService=new URLSearchParams(location.search).get('service')==='dinner'?'dinner':'lunch';
 const host=document.querySelector('#menu'),rail=document.querySelector('#category-rail'),topNav=document.querySelector('#categories'),dialog=document.querySelector('#conditions-dialog');
 const t=()=>translations[language];
+function setGlutenFreeBadge(media,visible){
+ if(!media)return;let badge=media.querySelector('.gluten-free-badge');
+ if(!visible){badge?.remove();return;}
+ if(!badge){badge=document.createElement('span');badge.className='gluten-free-badge';badge.setAttribute('role','img');media.append(badge);}
+ badge.setAttribute('aria-label',t().glutenFree);badge.title=t().glutenFree;
+}
 function node(tag,className,text){const e=document.createElement(tag);if(className)e.className=className;if(text!==undefined)e.textContent=text;return e;}
 const money=value=>new Intl.NumberFormat(language==='es'?'es-ES':'en-IE',{style:'currency',currency:'EUR'}).format(value);
 // Un lector compartido evita colas y lecturas superpuestas.
@@ -65,7 +71,7 @@ function renderSummary(){
 }
 function cardFor(dish,index){
  const card=node('article',`dish-card${mode==='drinks'?' drink-card':''}`);card.id=`dish-${dish.reference}`;card.dataset.category=dish.category;if(dish.imageFit)card.dataset.imageFit=dish.imageFit;card.setAttribute('aria-labelledby',`dish-title-${dish.reference}`);
- if(dish.image){const media=node('div','dish-media'),image=node('img');if(dish.imageAspect)media.style.setProperty('--photo-aspect',dish.imageAspect);image.src=dish.image;if(dish.imagePosition)image.style.objectPosition=dish.imagePosition;if(dish.imageFilter)image.style.filter=dish.imageFilter;if(dish.imageZoom||dish.imageOffsetX||dish.imageOffsetY)image.style.transform=`translate(${dish.imageOffsetX||0}px, ${dish.imageOffsetY||0}px) scale(${dish.imageZoom||1})`;image.alt=dish.name[language];image.width=900;image.height=675;image.loading=index===0?'eager':'lazy';image.decoding='async';media.append(image);card.append(media);}
+ if(dish.image){const media=node('div','dish-media'),image=node('img');if(dish.imageAspect)media.style.setProperty('--photo-aspect',dish.imageAspect);image.src=dish.image;if(dish.imagePosition)image.style.objectPosition=dish.imagePosition;if(dish.imageFilter)image.style.filter=dish.imageFilter;if(dish.imageZoom||dish.imageOffsetX||dish.imageOffsetY)image.style.transform=`translate(${dish.imageOffsetX||0}px, ${dish.imageOffsetY||0}px) scale(${dish.imageZoom||1})`;image.alt=dish.name[language];image.width=900;image.height=675;image.loading=index===0?'eager':'lazy';image.decoding='async';media.append(image);card.append(media);setGlutenFreeBadge(media,dish.glutenFree===true);}
  const body=node('div','dish-body'),meta=node('div','dish-meta');if(dish.showReference!==false)meta.append(node('span','reference',`${t().reference} ${dish.reference}`));
  if(dish.portion?.[language])meta.append(node('span','portion',dish.portion[language]));
  if(mode==='buffet'){
@@ -76,12 +82,22 @@ function cardFor(dish,index){
  if(mode==='carta'||mode==='drinks')heading.append(node('span','price',money(dish.price)));
  body.append(meta,heading);
  if(dish.description?.[language])body.append(node('p','description',dish.description[language]));
- if(dish.flavours){const choices=node('div','flavour-options');choices.setAttribute('role','group');choices.setAttribute('aria-label',t().chooseFlavour);dish.flavours.forEach((flavour,index)=>{const button=node('button','flavour-option',flavour.name[language]);button.type='button';button.setAttribute('aria-pressed',String(index===0));button.addEventListener('click',()=>{const image=card.querySelector('.dish-media img');image.src=flavour.image;image.alt=`${dish.name[language]} · ${flavour.name[language]}`;choices.querySelectorAll('button').forEach(b=>b.setAttribute('aria-pressed',String(b===button)));});choices.append(button);});body.append(choices);}
+ if(dish.flavours){
+  const selector=node('div','flavour-selector'),selection=node('p','flavour-selection');selection.setAttribute('role','status');selection.setAttribute('aria-live','polite');
+  const updateSelection=flavour=>{const category=flavour.glutenFree?t().glutenFree:t().withGluten;selection.textContent=`${flavour.name[language]} · ${category}`;const image=card.querySelector('.dish-media img');image.src=flavour.image;image.alt=`${dish.name[language]} · ${flavour.name[language]} · ${category}`;setGlutenFreeBadge(card.querySelector('.dish-media'),flavour.glutenFree===true);};
+  const grouped=dish.flavours.some(flavour=>typeof flavour.glutenFree==='boolean');
+  for(const free of grouped?[true,false]:[undefined]){
+   const group=node('fieldset','flavour-group');if(grouped)group.append(node('legend','',free?t().glutenFree:t().withGluten));const choices=node('div','flavour-options');
+   dish.flavours.filter(flavour=>!grouped||flavour.glutenFree===free).forEach(flavour=>{const button=node('button','flavour-option',flavour.name[language]);button.type='button';button.setAttribute('aria-pressed',String(flavour===dish.flavours[0]));if(grouped)button.setAttribute('aria-label',`${flavour.name[language]} · ${free?t().glutenFree:t().withGluten}`);button.addEventListener('click',()=>{updateSelection(flavour);selector.querySelectorAll('button').forEach(b=>b.setAttribute('aria-pressed',String(b===button)));});choices.append(button);});group.append(choices);selector.append(group);
+  }
+  updateSelection(dish.flavours[0]);body.append(selection,selector);
+ }
 
  if(mode==='drinks'&&dish.shotPrice!==undefined){body.append(node('p','serving-prices',`${t().glass}: ${money(dish.price)} · ${t().shot}: ${money(dish.shotPrice)}`));}
  if(dish.reviewPending)body.append(node('p','review-note',t().reviewPending));
  if(mode!=='drinks'){
   const allergies=node('div','allergens');allergies.id=`allergens-${dish.reference}`;allergies.hidden=true;allergies.setAttribute('role','region');allergies.setAttribute('aria-label',`${t().allergens}: ${dish.name[language]}`);
+  if(dish.allergenScope==='flavour')allergies.append(node('p','flavour-allergen-note',t().flavourAllergens));
   if(dish.allergens===null||dish.allergens===undefined){allergies.append(node('p','allergen-pending',t().allergensPending));}
   else if(dish.allergens.length){allergies.setAttribute('aria-label',t().allergens);const list=node('ul','allergen-list');dish.allergens.forEach(id=>{
    const allergen=data.allergens[id],label=allergen[language],item=node('li');item.title=label;
@@ -116,6 +132,7 @@ function cardFor(dish,index){
  }
  tools.append(listen);
  const shareActions=card.querySelector('.dish-actions')||body.querySelector('.dish-actions');if(shareActions)tools.append(shareActions);
+ if(dish.spicy){const badge=node('span','spicy-indicator');badge.title=t().spicy;const image=node('img');image.src='assets/icons/spicy.webp';image.alt=t().spicy;image.width=30;image.height=30;badge.append(image);tools.append(badge);}
  const media=card.querySelector('.dish-media');
  if(media){
   const visual=node('div','dish-visual');visual.append(media,tools);

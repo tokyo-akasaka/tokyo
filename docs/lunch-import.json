@@ -26,14 +26,9 @@
   {
     "reference": "E3",
     "page": 2,
-    "allergensUnmatched": [
-      [
-        237.1,
-        394.5,
-        5
-      ]
-    ],
-    "photo": "assets/dishes/lunch-e3.webp"
+    "allergensUnmatched": [],
+    "photo": "assets/dishes/lunch-e3.webp",
+    "allergensVerification": "Verificado visualmente contra símbolos y leyenda del PDF de TOKYO."
   },
   {
     "reference": "ES20",
@@ -110,43 +105,23 @@
   {
     "reference": "ES17",
     "page": 4,
-    "allergensUnmatched": [
-      [
-        341.8,
-        252.2,
-        15
-      ]
-    ],
-    "photo": "assets/dishes/lunch-es17.webp"
+    "allergensUnmatched": [],
+    "photo": "assets/dishes/lunch-es17.webp",
+    "allergensVerification": "Verificado visualmente contra símbolos y leyenda del PDF de TOKYO."
   },
   {
     "reference": "ES18",
     "page": 4,
-    "allergensUnmatched": [
-      [
-        260.1,
-        372.4,
-        15
-      ],
-      [
-        304.0,
-        376.0,
-        5
-      ]
-    ],
-    "photo": "assets/dishes/lunch-es18.webp"
+    "allergensUnmatched": [],
+    "photo": "assets/dishes/lunch-es18.webp",
+    "allergensVerification": "Verificado visualmente contra símbolos y leyenda del PDF de TOKYO."
   },
   {
     "reference": "ES12",
     "page": 4,
-    "allergensUnmatched": [
-      [
-        260.1,
-        492.7,
-        15
-      ]
-    ],
-    "photo": "assets/dishes/lunch-es12.webp"
+    "allergensUnmatched": [],
+    "photo": "assets/dishes/lunch-es12.webp",
+    "allergensVerification": "Verificado visualmente contra símbolos y leyenda del PDF de TOKYO."
   },
   {
     "reference": "E11",
@@ -157,14 +132,9 @@
   {
     "reference": "ES13",
     "page": 5,
-    "allergensUnmatched": [
-      [
-        314.0,
-        132.6,
-        15
-      ]
-    ],
-    "photo": "assets/dishes/lunch-es13.webp"
+    "allergensUnmatched": [],
+    "photo": "assets/dishes/lunch-es13.webp",
+    "allergensVerification": "Verificado visualmente contra símbolos y leyenda del PDF de TOKYO."
   },
   {
     "reference": "S112",

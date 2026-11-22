@@ -419,6 +419,8 @@ body:has(.audio-dock:not([hidden])){padding-bottom:110px}
 }
 
 /* Servicios de TOKYO: precios independientes para comida y cena. */
+.spicy-indicator{display:flex;align-items:center;justify-content:center;flex-shrink:0;width:36px;height:36px}
+.spicy-indicator img{display:block;width:30px;height:30px;object-fit:contain}
 .meal-services{display:flex;gap:8px;margin:0 0 20px;flex-wrap:wrap}
 .meal-service,.flavour-option{border:1px solid var(--line);border-radius:24px;padding:11px 18px;min-height:44px;color:var(--ink);background:var(--card);cursor:pointer;font:inherit;font-size:13px}
 .meal-service[aria-pressed=true],.flavour-option[aria-pressed=true]{background:var(--red);border-color:var(--red);color:white}
@@ -486,3 +488,15 @@ body:has(.audio-dock:not([hidden])){padding-bottom:110px}
  .nye-english{margin-bottom:13px;font-size:9px}
  .nye-drinks{font-size:18px;padding:8px 11px}
 }
+
+/* PS184: variantes de mochi separadas por contenido de gluten. */
+.flavour-selector{display:grid;gap:12px;margin:12px 0}
+.flavour-group{min-width:0;margin:0;padding:10px;border:1px solid var(--line);border-radius:5px}
+.flavour-group legend{padding:0 6px;font-size:12px;font-weight:700;color:var(--ink)}
+.flavour-group .flavour-options{margin:0}
+.flavour-selection{font-size:13px;font-weight:600;color:var(--red);margin:12px 0 0}
+.flavour-allergen-note{font-size:12px;line-height:1.5;color:var(--muted);margin:0 0 10px}
+
+/* Distintivo original: visible solo para la variedad seleccionada sin gluten. */
+.dish-media{position:relative}
+.gluten-free-badge{position:absolute;right:8px;bottom:8px;width:64px;height:54px;background:url('../assets/icons/gluten-free.webp') center/contain no-repeat;z-index:1;pointer-events:none}

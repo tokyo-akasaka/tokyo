@@ -8,14 +8,9 @@
   {
     "reference": "E3",
     "page": 2,
-    "allergensUnmatched": [
-      [
-        254.8,
-        278.3,
-        5
-      ]
-    ],
-    "photo": "assets/dishes/tokyo-e3.webp"
+    "allergensUnmatched": [],
+    "photo": "assets/dishes/tokyo-e3.webp",
+    "allergensVerification": "Verificado visualmente contra símbolos y leyenda del PDF de TOKYO."
   },
   {
     "reference": "E4",
@@ -56,26 +51,16 @@
   {
     "reference": "ES12",
     "page": 3,
-    "allergensUnmatched": [
-      [
-        360.4,
-        492.3,
-        5
-      ]
-    ],
-    "photo": "assets/dishes/tokyo-es12.webp"
+    "allergensUnmatched": [],
+    "photo": "assets/dishes/tokyo-es12.webp",
+    "allergensVerification": "Verificado visualmente contra símbolos y leyenda del PDF de TOKYO."
   },
   {
     "reference": "ES13",
     "page": 3,
-    "allergensUnmatched": [
-      [
-        381.6,
-        639.5,
-        5
-      ]
-    ],
-    "photo": "assets/dishes/tokyo-es13.webp"
+    "allergensUnmatched": [],
+    "photo": "assets/dishes/tokyo-es13.webp",
+    "allergensVerification": "Verificado visualmente contra símbolos y leyenda del PDF de TOKYO."
   },
   {
     "reference": "ES14",
@@ -92,26 +77,16 @@
   {
     "reference": "ES17",
     "page": 4,
-    "allergensUnmatched": [
-      [
-        359.2,
-        262.9,
-        5
-      ]
-    ],
-    "photo": "assets/dishes/tokyo-es17.webp"
+    "allergensUnmatched": [],
+    "photo": "assets/dishes/tokyo-es17.webp",
+    "allergensVerification": "Verificado visualmente contra símbolos y leyenda del PDF de TOKYO."
   },
   {
     "reference": "ES18",
     "page": 4,
-    "allergensUnmatched": [
-      [
-        298.0,
-        383.2,
-        5
-      ]
-    ],
-    "photo": "assets/dishes/tokyo-es18.webp"
+    "allergensUnmatched": [],
+    "photo": "assets/dishes/tokyo-es18.webp",
+    "allergensVerification": "Verificado visualmente contra símbolos y leyenda del PDF de TOKYO."
   },
   {
     "reference": "ES20",
@@ -602,14 +577,9 @@
   {
     "reference": "CR93",
     "page": 16,
-    "allergensUnmatched": [
-      [
-        337.6,
-        389.8,
-        5
-      ]
-    ],
-    "photo": "assets/dishes/tokyo-cr93.webp"
+    "allergensUnmatched": [],
+    "photo": "assets/dishes/tokyo-cr93.webp",
+    "allergensVerification": "Verificado visualmente contra símbolos y leyenda del PDF de TOKYO."
   },
   {
     "reference": "CR96",

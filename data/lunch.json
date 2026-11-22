@@ -99,7 +99,12 @@
         "es": "",
         "en": ""
       },
-      "allergens": null,
+      "allergens": [
+        "mustard",
+        "gluten",
+        "egg",
+        "soy"
+      ],
       "sourcePage": 2,
       "sourceDocument": "TOKYO MENU COMIDA O CENA.pdf",
       "buffetStars": 0,
@@ -230,7 +235,11 @@
       "buffetStars": 0,
       "twoPersons": false,
       "isNew": false,
-      "image": "assets/dishes/lunch-e28.webp"
+      "imageReference": "E28",
+      "image": "assets/dishes/e28-tokyo-original.webp",
+      "imagePosition": "50% 50%",
+      "imageFilter": "none",
+      "imageFit": "original-zoom-out"
     },
     {
       "reference": "E1",
@@ -325,7 +334,14 @@
         "es": "",
         "en": ""
       },
-      "allergens": null,
+      "allergens": [
+        "soy",
+        "fish",
+        "egg",
+        "gluten",
+        "sesame",
+        "sulphites"
+      ],
       "sourcePage": 4,
       "sourceDocument": "TOKYO MENU COMIDA O CENA.pdf",
       "buffetStars": 0,
@@ -348,7 +364,13 @@
         "es": "",
         "en": ""
       },
-      "allergens": null,
+      "allergens": [
+        "soy",
+        "sulphites",
+        "egg",
+        "mustard",
+        "sesame"
+      ],
       "sourcePage": 4,
       "sourceDocument": "TOKYO MENU COMIDA O CENA.pdf",
       "buffetStars": 0,
@@ -371,7 +393,13 @@
         "es": "",
         "en": ""
       },
-      "allergens": null,
+      "allergens": [
+        "gluten",
+        "sulphites",
+        "sesame",
+        "fish",
+        "soy"
+      ],
       "sourcePage": 4,
       "sourceDocument": "TOKYO MENU COMIDA O CENA.pdf",
       "buffetStars": 0,
@@ -419,7 +447,15 @@
         "es": "",
         "en": ""
       },
-      "allergens": null,
+      "allergens": [
+        "soy",
+        "fish",
+        "gluten",
+        "sesame",
+        "sulphites",
+        "crustaceans",
+        "egg"
+      ],
       "sourcePage": 5,
       "sourceDocument": "TOKYO MENU COMIDA O CENA.pdf",
       "buffetStars": 0,
