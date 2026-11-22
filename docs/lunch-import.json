@@ -1,0 +1,313 @@
+[
+  {
+    "reference": "E6",
+    "page": 2,
+    "allergensUnmatched": [
+      [
+        254.5,
+        118.6,
+        15
+      ]
+    ],
+    "photo": "assets/dishes/lunch-e6.webp"
+  },
+  {
+    "reference": "E21",
+    "page": 2,
+    "allergensUnmatched": [
+      [
+        295.3,
+        270.7,
+        15
+      ]
+    ],
+    "photo": "assets/dishes/lunch-e21.webp"
+  },
+  {
+    "reference": "E3",
+    "page": 2,
+    "allergensUnmatched": [
+      [
+        237.1,
+        394.5,
+        5
+      ]
+    ],
+    "photo": "assets/dishes/lunch-e3.webp"
+  },
+  {
+    "reference": "ES20",
+    "page": 2,
+    "allergensUnmatched": [
+      [
+        274.9,
+        487.2,
+        15
+      ]
+    ],
+    "photo": "assets/dishes/lunch-es20.webp"
+  },
+  {
+    "reference": "E5",
+    "page": 2,
+    "allergensUnmatched": [
+      [
+        254.5,
+        607.5,
+        15
+      ]
+    ],
+    "photo": "assets/dishes/lunch-e5.webp"
+  },
+  {
+    "reference": "E7",
+    "page": 3,
+    "allergensUnmatched": [],
+    "photo": "assets/dishes/lunch-e7.webp"
+  },
+  {
+    "reference": "E4",
+    "page": 3,
+    "allergensUnmatched": [],
+    "photo": "assets/dishes/lunch-e4.webp"
+  },
+  {
+    "reference": "E28",
+    "page": 3,
+    "allergensUnmatched": [
+      [
+        293.6,
+        359.2,
+        15
+      ]
+    ],
+    "photo": "assets/dishes/lunch-e28.webp"
+  },
+  {
+    "reference": "E1",
+    "page": 3,
+    "allergensUnmatched": [],
+    "photo": "assets/dishes/lunch-e1.webp"
+  },
+  {
+    "reference": "GY22",
+    "page": 3,
+    "allergensUnmatched": [
+      [
+        252.8,
+        597.9,
+        15
+      ]
+    ],
+    "photo": "assets/dishes/lunch-gy22.webp"
+  },
+  {
+    "reference": "ES14",
+    "page": 4,
+    "allergensUnmatched": [],
+    "photo": "assets/dishes/lunch-es14.webp"
+  },
+  {
+    "reference": "ES17",
+    "page": 4,
+    "allergensUnmatched": [
+      [
+        341.8,
+        252.2,
+        15
+      ]
+    ],
+    "photo": "assets/dishes/lunch-es17.webp"
+  },
+  {
+    "reference": "ES18",
+    "page": 4,
+    "allergensUnmatched": [
+      [
+        260.1,
+        372.4,
+        15
+      ],
+      [
+        304.0,
+        376.0,
+        5
+      ]
+    ],
+    "photo": "assets/dishes/lunch-es18.webp"
+  },
+  {
+    "reference": "ES12",
+    "page": 4,
+    "allergensUnmatched": [
+      [
+        260.1,
+        492.7,
+        15
+      ]
+    ],
+    "photo": "assets/dishes/lunch-es12.webp"
+  },
+  {
+    "reference": "E11",
+    "page": 4,
+    "allergensUnmatched": [],
+    "photo": "assets/dishes/lunch-e11.webp"
+  },
+  {
+    "reference": "ES13",
+    "page": 5,
+    "allergensUnmatched": [
+      [
+        314.0,
+        132.6,
+        15
+      ]
+    ],
+    "photo": "assets/dishes/lunch-es13.webp"
+  },
+  {
+    "reference": "S112",
+    "page": 5,
+    "allergensUnmatched": [],
+    "photo": "assets/dishes/lunch-s112.webp"
+  },
+  {
+    "reference": "S110",
+    "page": 5,
+    "allergensUnmatched": [],
+    "photo": "assets/dishes/lunch-s110.webp"
+  },
+  {
+    "reference": "S111",
+    "page": 5,
+    "allergensUnmatched": [],
+    "photo": "assets/dishes/lunch-s111.webp"
+  },
+  {
+    "reference": "GY23",
+    "page": 5,
+    "allergensUnmatched": [
+      [
+        314.0,
+        625.7,
+        15
+      ]
+    ],
+    "photo": "assets/dishes/lunch-gy23.webp"
+  },
+  {
+    "reference": "UD141",
+    "page": 6,
+    "allergensUnmatched": [],
+    "photo": "assets/dishes/lunch-ud141.webp"
+  },
+  {
+    "reference": "M157",
+    "page": 6,
+    "allergensUnmatched": [],
+    "photo": "assets/dishes/lunch-m157.webp"
+  },
+  {
+    "reference": "M156",
+    "page": 6,
+    "allergensUnmatched": [],
+    "photo": "assets/dishes/lunch-m156.webp"
+  },
+  {
+    "reference": "M155",
+    "page": 6,
+    "allergensUnmatched": [],
+    "photo": "assets/dishes/lunch-m155.webp"
+  },
+  {
+    "reference": "M158",
+    "page": 6,
+    "allergensUnmatched": [],
+    "photo": "assets/dishes/lunch-m158.webp"
+  },
+  {
+    "reference": "CR139",
+    "page": 6,
+    "allergensUnmatched": [],
+    "photo": "assets/dishes/lunch-cr139.webp"
+  },
+  {
+    "reference": "UD163",
+    "page": 7,
+    "allergensUnmatched": [],
+    "photo": "assets/dishes/lunch-ud163.webp"
+  },
+  {
+    "reference": "DR106",
+    "page": 7,
+    "allergensUnmatched": [
+      [
+        293.6,
+        241.0,
+        15
+      ]
+    ],
+    "photo": "assets/dishes/lunch-dr106.webp"
+  },
+  {
+    "reference": "DR104",
+    "page": 7,
+    "allergensUnmatched": [],
+    "photo": "assets/dishes/lunch-dr104.webp"
+  },
+  {
+    "reference": "CR128",
+    "page": 7,
+    "allergensUnmatched": [],
+    "photo": "assets/dishes/lunch-cr128.webp"
+  },
+  {
+    "reference": "MR131",
+    "page": 7,
+    "allergensUnmatched": [],
+    "photo": "assets/dishes/lunch-mr131.webp"
+  },
+  {
+    "reference": "M161",
+    "page": 7,
+    "allergensUnmatched": [],
+    "photo": "assets/dishes/lunch-m161.webp"
+  },
+  {
+    "reference": "CM170",
+    "page": 8,
+    "allergensUnmatched": [],
+    "photo": "assets/dishes/lunch-cm170.webp"
+  },
+  {
+    "reference": "CM171",
+    "page": 8,
+    "allergensUnmatched": [],
+    "photo": "assets/dishes/lunch-cm171.webp"
+  },
+  {
+    "reference": "CM172",
+    "page": 8,
+    "allergensUnmatched": [],
+    "photo": "assets/dishes/lunch-cm172.webp"
+  },
+  {
+    "reference": "CM173",
+    "page": 8,
+    "allergensUnmatched": [],
+    "photo": "assets/dishes/lunch-cm173.webp"
+  },
+  {
+    "reference": "CM174",
+    "page": 8,
+    "allergensUnmatched": [],
+    "photo": "assets/dishes/lunch-cm174.webp"
+  },
+  {
+    "reference": "CM175",
+    "page": 8,
+    "allergensUnmatched": [],
+    "photo": "assets/dishes/lunch-cm175.webp"
+  }
+]

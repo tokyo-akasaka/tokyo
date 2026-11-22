@@ -1,0 +1,3819 @@
+[
+  {
+    "reference": "E6",
+    "category": "entrantes",
+    "name": {
+      "es": "Cha giò hai san",
+      "en": "Cha giò hai san"
+    },
+    "description": {
+      "es": "Rollitos de marisco con tartar de salmón y salsa de trufa 4u.",
+      "en": "Seafood rolls with salmon tartare and truffle sauce 4 pcs."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "gluten",
+      "sulphites",
+      "egg",
+      "fish"
+    ],
+    "sourcePage": 2,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 2,
+    "twoPersons": true,
+    "isNew": false,
+    "price": 5.8,
+    "image": "assets/dishes/tokyo-e6.webp"
+  },
+  {
+    "reference": "E3",
+    "category": "entrantes",
+    "name": {
+      "es": "Gyoza vegetal",
+      "en": "Gyoza vegetal"
+    },
+    "description": {
+      "es": "Empanadillas japonesas rellenas de mix de verduras con mayonesa picante 4U.",
+      "en": "Japanese dumplings filled with mixed vegetables and spicy mayonnaise 4U."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": null,
+    "sourcePage": 2,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 5.0,
+    "image": "assets/dishes/tokyo-e3.webp"
+  },
+  {
+    "reference": "E4",
+    "category": "entrantes",
+    "name": {
+      "es": "Tiras de pollo",
+      "en": "Tiras de pollo"
+    },
+    "description": {
+      "es": "Pollo con salsa chili 5u.",
+      "en": "Chicken with chili sauce 5u."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "gluten",
+      "milk",
+      "egg",
+      "soy"
+    ],
+    "sourcePage": 2,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 7.8,
+    "image": "assets/dishes/tokyo-e4.webp"
+  },
+  {
+    "reference": "E5",
+    "category": "entrantes",
+    "name": {
+      "es": "Duck harumaki",
+      "en": "Duck harumaki"
+    },
+    "description": {
+      "es": "Rollito crujiente de pato con salsa hoisin 5u.",
+      "en": "Crispy duck roll with hoisin sauce 5u."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "gluten",
+      "sulphites",
+      "egg"
+    ],
+    "sourcePage": 2,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 5.8,
+    "image": "assets/dishes/tokyo-e5.webp"
+  },
+  {
+    "reference": "E1",
+    "category": "entrantes",
+    "name": {
+      "es": "Takoyaki",
+      "en": "Takoyaki"
+    },
+    "description": {
+      "es": "Fantásticas bolitas de pulpo y salsa takoyaki 2u",
+      "en": "Fantastic octopus balls takoyaki sauce 2u."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "gluten",
+      "sesame",
+      "egg",
+      "molluscs",
+      "soy"
+    ],
+    "sourcePage": 2,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 5.0,
+    "image": "assets/dishes/tokyo-e1.webp"
+  },
+  {
+    "reference": "E7",
+    "category": "entrantes",
+    "name": {
+      "es": "Ebi kimono",
+      "en": "Ebi kimono"
+    },
+    "description": {
+      "es": "Gambas en kimono 5u.",
+      "en": "Prawns in kimono 5u."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "gluten",
+      "sesame",
+      "egg",
+      "crustaceans"
+    ],
+    "sourcePage": 3,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 7.5,
+    "image": "assets/dishes/tokyo-e7.webp"
+  },
+  {
+    "reference": "E8",
+    "category": "entrantes",
+    "name": {
+      "es": "Okonomiyaki brochetas",
+      "en": "Okonomiyaki brochetas"
+    },
+    "description": {
+      "es": "Pulpo, col japonesa, huevo, cebolleta, salsa okonomiyaki, mayonesa japonesa, katsuobushi y aonori 2 u.",
+      "en": "Octopus, Japanese cabbage, egg, spring onion, okonomiyaki sauce, Japanese mayonnaise, katsuobushi and aonori 2 u."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "gluten",
+      "egg",
+      "sulphites",
+      "soy",
+      "molluscs"
+    ],
+    "sourcePage": 3,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 1,
+    "twoPersons": true,
+    "isNew": false,
+    "price": 8.0,
+    "image": "assets/dishes/tokyo-e8.webp"
+  },
+  {
+    "reference": "E11",
+    "category": "entrantes",
+    "name": {
+      "es": "Edamame",
+      "en": "Edamame"
+    },
+    "description": {
+      "es": "Soja verde con sal",
+      "en": "Green soybeans with salt"
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "soy"
+    ],
+    "sourcePage": 3,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 5.8,
+    "image": "assets/dishes/tokyo-e11.webp"
+  },
+  {
+    "reference": "ES12",
+    "category": "entrantes",
+    "name": {
+      "es": "Maguro abokado",
+      "en": "Maguro abokado"
+    },
+    "description": {
+      "es": "Ensalada mezclum con atún, aguacate, salsa de la casa y yuzu",
+      "en": "Mesclun salad with tuna, avocado and house sauce with yuzu"
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": null,
+    "sourcePage": 3,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 12.8,
+    "image": "assets/dishes/tokyo-es12.webp"
+  },
+  {
+    "reference": "ES13",
+    "category": "entrantes",
+    "name": {
+      "es": "Ebi shake sarada",
+      "en": "Ebi shake sarada"
+    },
+    "description": {
+      "es": "Ensalada mezclum con salmón y gambas, salsa de la casa con yuzu",
+      "en": "Mesclun salad with salmon and shrimp, house sauce wiht yuzu"
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": null,
+    "sourcePage": 3,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 11.8,
+    "image": "assets/dishes/tokyo-es13.webp"
+  },
+  {
+    "reference": "ES14",
+    "category": "entrantes",
+    "name": {
+      "es": "Wakame sarada",
+      "en": "Wakame sarada"
+    },
+    "description": {
+      "es": "Ensalada de alga",
+      "en": "Seaweed salad"
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "soy",
+      "sesame"
+    ],
+    "sourcePage": 3,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 5.8,
+    "image": "assets/dishes/tokyo-es14.webp"
+  },
+  {
+    "reference": "ES10",
+    "category": "entrantes",
+    "name": {
+      "es": "Imo mochi",
+      "en": "Imo mochi"
+    },
+    "description": {
+      "es": "Bolas de patata al estilo japonés rellenas de queso 4u.",
+      "en": "Japanese-style potato balls filled with cheese 4u."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "soy",
+      "fish",
+      "sesame",
+      "gluten",
+      "egg"
+    ],
+    "sourcePage": 4,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 2,
+    "twoPersons": true,
+    "isNew": false,
+    "price": 8.0,
+    "image": "assets/dishes/tokyo-es10.webp"
+  },
+  {
+    "reference": "ES17",
+    "category": "entrantes",
+    "name": {
+      "es": "Shake abokado",
+      "en": "Shake abokado"
+    },
+    "description": {
+      "es": "Ensalada mezclum; salmón, aguacate, salsa de la casa y yuzu",
+      "en": "Mesclun salad; salmon and avocado and house sauce with yuzu"
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": null,
+    "sourcePage": 4,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 11.8,
+    "image": "assets/dishes/tokyo-es17.webp"
+  },
+  {
+    "reference": "ES18",
+    "category": "entrantes",
+    "name": {
+      "es": "Wakameabokado",
+      "en": "Wakameabokado"
+    },
+    "description": {
+      "es": "Ensalada mezclum con wakame y aguacate",
+      "en": "Mesclun salad, with wakame and avocado"
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": null,
+    "sourcePage": 4,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 10.8,
+    "image": "assets/dishes/tokyo-es18.webp"
+  },
+  {
+    "reference": "ES20",
+    "category": "entrantes",
+    "name": {
+      "es": "Gyoza tori",
+      "en": "Gyoza tori"
+    },
+    "description": {
+      "es": "Ravioli frito de pollo y verduras.4U.",
+      "en": "Fried chicken and vegetable ravioli. 4U."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "soy",
+      "gluten",
+      "sulphites",
+      "milk",
+      "egg"
+    ],
+    "sourcePage": 4,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 6.5,
+    "image": "assets/dishes/tokyo-es20.webp"
+  },
+  {
+    "reference": "E21",
+    "category": "entrantes",
+    "name": {
+      "es": "Gyoza de la casa",
+      "en": "Gyoza de la casa"
+    },
+    "description": {
+      "es": "Empanadilla con carne picada y verdura, hecho a mano 4u.",
+      "en": "Dumplings with minced meat and vegetables, handmade 4u."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "soy",
+      "egg",
+      "gluten",
+      "sulphites"
+    ],
+    "sourcePage": 4,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 2,
+    "twoPersons": true,
+    "isNew": false,
+    "price": 6.8,
+    "image": "assets/dishes/tokyo-e21.webp"
+  },
+  {
+    "reference": "GY22",
+    "category": "entrantes",
+    "name": {
+      "es": "Butaman",
+      "en": "Butaman"
+    },
+    "description": {
+      "es": "Ravioli con carne 4U.",
+      "en": "Ravioli with meat 4U."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "soy",
+      "sulphites",
+      "gluten",
+      "egg"
+    ],
+    "sourcePage": 5,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 6.2,
+    "image": "assets/dishes/tokyo-gy22.webp"
+  },
+  {
+    "reference": "GY23",
+    "category": "entrantes",
+    "name": {
+      "es": "Dimsum hakako",
+      "en": "Dimsum hakako"
+    },
+    "description": {
+      "es": "3 hakao cantones con gamba picada y caldo dashi no moto",
+      "en": "3 Cantonese har gow dumplings with minced prawns and dashi broth."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "soy",
+      "crustaceans",
+      "egg",
+      "gluten",
+      "sulphites"
+    ],
+    "sourcePage": 5,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 8.8,
+    "image": "assets/dishes/tokyo-gy23.webp"
+  },
+  {
+    "reference": "GY26",
+    "category": "entrantes",
+    "name": {
+      "es": "Gwa bao (angus)",
+      "en": "Gwa bao (angus)"
+    },
+    "description": {
+      "es": "Gwa bao de ternera, rúcula, mayonesa picante",
+      "en": "Beef bao ban, arugula, spicy mayonnaise"
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "gluten",
+      "sulphites",
+      "milk",
+      "egg"
+    ],
+    "sourcePage": 5,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 1,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 6.8,
+    "image": "assets/dishes/tokyo-gy26.webp"
+  },
+  {
+    "reference": "GY25",
+    "category": "entrantes",
+    "name": {
+      "es": "Gwa bao (pato)",
+      "en": "Gwa bao (pato)"
+    },
+    "description": {
+      "es": "Gwa bao de pato, rúcula",
+      "en": "Duck bao gwa, lettuce"
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "gluten",
+      "milk",
+      "sulphites"
+    ],
+    "sourcePage": 5,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 5.8,
+    "image": "assets/dishes/tokyo-gy25.webp"
+  },
+  {
+    "reference": "E28",
+    "category": "entrantes",
+    "name": {
+      "es": "Wantun frito",
+      "en": "Wantun frito"
+    },
+    "description": {
+      "es": "Rellenos de queso philadelphia y surimi 4u.",
+      "en": "Philadelphia cheese and surimi fillings 4u."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "soy",
+      "egg",
+      "gluten",
+      "sulphites"
+    ],
+    "sourcePage": 5,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 6.5,
+    "image": "assets/dishes/tokyo-e28.webp"
+  },
+  {
+    "reference": "S112",
+    "category": "sopa",
+    "name": {
+      "es": "Espinaca misoshiru",
+      "en": "Espinaca misoshiru"
+    },
+    "description": {
+      "es": "Sopa de miso con espinaca.",
+      "en": "Miso soup with spinach."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "soy",
+      "sesame"
+    ],
+    "sourcePage": 6,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 5.8,
+    "image": "assets/dishes/tokyo-s112.webp"
+  },
+  {
+    "reference": "S110",
+    "category": "sopa",
+    "name": {
+      "es": "Tofu misoshiru",
+      "en": "Tofu misoshiru"
+    },
+    "description": {
+      "es": "Sopa de miso con tofu",
+      "en": "Miso soup with tofu"
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "soy",
+      "sesame"
+    ],
+    "sourcePage": 6,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 5.5,
+    "image": "assets/dishes/tokyo-s110.webp"
+  },
+  {
+    "reference": "S111",
+    "category": "sopa",
+    "name": {
+      "es": "Misoshiru",
+      "en": "Misoshiru"
+    },
+    "description": {
+      "es": "Sopa de miso con almejas y algas",
+      "en": "Miso soup with clams and seaweed."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "soy",
+      "molluscs"
+    ],
+    "sourcePage": 6,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 8.0,
+    "image": "assets/dishes/tokyo-s111.webp"
+  },
+  {
+    "reference": "UD140",
+    "category": "ramen",
+    "name": {
+      "es": "Miso udon",
+      "en": "Miso udon"
+    },
+    "description": {
+      "es": "Con shimeji y naruto y wakame",
+      "en": "With shimeji and naruto and wakame"
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "gluten",
+      "egg",
+      "soy"
+    ],
+    "sourcePage": 6,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 10.9,
+    "image": "assets/dishes/tokyo-ud140.webp"
+  },
+  {
+    "reference": "UD141",
+    "category": "ramen",
+    "name": {
+      "es": "Tonkatsu ramen",
+      "en": "Tonkatsu ramen"
+    },
+    "description": {
+      "es": "Ramen con pechuga de pollo rebozada y narutomaki",
+      "en": "Noodles with breaded chicken breast"
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "gluten",
+      "egg",
+      "soy"
+    ],
+    "sourcePage": 6,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 10.2,
+    "image": "assets/dishes/tokyo-ud141.webp"
+  },
+  {
+    "reference": "UD147",
+    "category": "ramen",
+    "name": {
+      "es": "Miso ramen-chasu",
+      "en": "Miso ramen-chasu"
+    },
+    "description": {
+      "es": "Ramen, carne de cerdo, miso, huevo, bambu",
+      "en": "Ramen, pork, miso, egg, bamboo"
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "soy",
+      "egg",
+      "gluten"
+    ],
+    "sourcePage": 6,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 10.8,
+    "image": "assets/dishes/tokyo-ud147.webp"
+  },
+  {
+    "reference": "UD148",
+    "category": "ramen",
+    "name": {
+      "es": "Ramen seco",
+      "en": "Ramen seco"
+    },
+    "description": {
+      "es": "Pollo con fideos y yude tamago y cebollino",
+      "en": "Chicken with noodles and yude tamago and chives"
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "gluten",
+      "egg",
+      "soy",
+      "sulphites"
+    ],
+    "sourcePage": 7,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 10.8,
+    "image": "assets/dishes/tokyo-ud148.webp"
+  },
+  {
+    "reference": "SM108",
+    "category": "poke",
+    "name": {
+      "es": "Poke salmón lava - onsen tamago",
+      "en": "Poke salmón lava - onsen tamago"
+    },
+    "description": {
+      "es": "Salmón flameado, arroz, salsa teriyaki, mayonesa japonesa, tobiko, sésamo, alga nori y onsen tamago (huevo japonés con yema cremosa)",
+      "en": "Flame-seared salmon, rice, teriyaki sauce, Japanese mayonnaise, tobiko, sesame, nori seaweed and onsen tamago (Japanese-style egg with a creamy yolk)"
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "gluten",
+      "fish",
+      "sesame",
+      "egg",
+      "soy"
+    ],
+    "sourcePage": 7,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 14.0,
+    "image": "assets/dishes/tokyo-sm108.webp"
+  },
+  {
+    "reference": "SM109",
+    "category": "poke",
+    "name": {
+      "es": "Unagi poke",
+      "en": "Unagi poke"
+    },
+    "description": {
+      "es": "Angula, tipico, cebollino, arroz, sésamo",
+      "en": "Baby eel, “tipico”, chives, rice and sesame."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "fish",
+      "soy",
+      "gluten",
+      "sulphites",
+      "sesame"
+    ],
+    "sourcePage": 7,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 14.8,
+    "image": "assets/dishes/tokyo-sm109.webp"
+  },
+  {
+    "reference": "SM107",
+    "category": "poke",
+    "name": {
+      "es": "Poke salmón",
+      "en": "Poke salmón"
+    },
+    "description": {
+      "es": "Salmón, aguacate, arroz, salsa yuzu y wasabi, wakame y sésamo negro",
+      "en": "Salmon, avocado, rice, yuzu and wasabi sauce, wakame and black sesame."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "soy",
+      "egg",
+      "gluten",
+      "sulphites"
+    ],
+    "sourcePage": 7,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 14.8,
+    "image": "assets/dishes/tokyo-sm107.webp"
+  },
+  {
+    "reference": "UD143",
+    "category": "arroz",
+    "name": {
+      "es": "Udon",
+      "en": "Udon"
+    },
+    "description": {
+      "es": "Con carne y verduras",
+      "en": "With beef and vegetables"
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "gluten",
+      "sesame",
+      "soy",
+      "sulphites"
+    ],
+    "sourcePage": 8,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 10.9,
+    "image": "assets/dishes/tokyo-ud143.webp"
+  },
+  {
+    "reference": "UD144",
+    "category": "arroz",
+    "name": {
+      "es": "Duck chow mein",
+      "en": "Duck chow mein"
+    },
+    "description": {
+      "es": "Tallarines con pato asado",
+      "en": "Noodles with roast duck"
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "gluten",
+      "sesame",
+      "soy"
+    ],
+    "sourcePage": 8,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 15.2,
+    "image": "assets/dishes/tokyo-ud144.webp"
+  },
+  {
+    "reference": "UD142",
+    "category": "arroz",
+    "name": {
+      "es": "Yakisoba",
+      "en": "Yakisoba"
+    },
+    "description": {
+      "es": "Tallarines con gambas y verdura mixta",
+      "en": "Noodles with prawns and mixed vegetables"
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "soy",
+      "sesame",
+      "gluten",
+      "crustaceans"
+    ],
+    "sourcePage": 8,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 11.2,
+    "image": "assets/dishes/tokyo-ud142.webp"
+  },
+  {
+    "reference": "UD146",
+    "category": "arroz",
+    "name": {
+      "es": "Fideos de arroz",
+      "en": "Fideos de arroz"
+    },
+    "description": {
+      "es": "Fideos de arroz con Brotes de soja y Cebollino y huevo",
+      "en": "Rice Noodles with Bean Sprouts and Chives and Egg"
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "gluten",
+      "sulphites",
+      "soy"
+    ],
+    "sourcePage": 8,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 10.0,
+    "image": "assets/dishes/tokyo-ud146.webp"
+  },
+  {
+    "reference": "UD145",
+    "category": "arroz",
+    "name": {
+      "es": "Pato con arroz",
+      "en": "Pato con arroz"
+    },
+    "description": {
+      "es": "Arroz salteado con pato y cebollinos y shiitake, huevos",
+      "en": "Sautéed rice with duck and chives and shiitake, eggs"
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "gluten",
+      "egg",
+      "soy"
+    ],
+    "sourcePage": 8,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 10.8,
+    "image": "assets/dishes/tokyo-ud145.webp"
+  },
+  {
+    "reference": "UD149",
+    "category": "arroz",
+    "name": {
+      "es": "Arroz trufado",
+      "en": "Arroz trufado"
+    },
+    "description": {
+      "es": "Arroz con salchicha japones, seta setake, cebollino y salsa de trufa",
+      "en": "Rice with japanese sausage, shiitake mushroom, chives and truffle sauce"
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "soy",
+      "egg",
+      "gluten"
+    ],
+    "sourcePage": 8,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 14.8,
+    "image": "assets/dishes/tokyo-ud149.webp"
+  },
+  {
+    "reference": "SH30",
+    "category": "nigiri",
+    "name": {
+      "es": "Maguro",
+      "en": "Maguro"
+    },
+    "description": {
+      "es": "Atún 2U.",
+      "en": "Tuna 2U."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "fish"
+    ],
+    "sourcePage": 9,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 6.0,
+    "image": "assets/dishes/tokyo-sh30.webp"
+  },
+  {
+    "reference": "SH32",
+    "category": "nigiri",
+    "name": {
+      "es": "Ebi",
+      "en": "Ebi"
+    },
+    "description": {
+      "es": "Gamba cocida 2u.",
+      "en": "Cooked shrimp 2u."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "crustaceans"
+    ],
+    "sourcePage": 9,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 5.0,
+    "image": "assets/dishes/tokyo-sh32.webp"
+  },
+  {
+    "reference": "SH34",
+    "category": "nigiri",
+    "name": {
+      "es": "Hokkigai",
+      "en": "Hokkigai"
+    },
+    "description": {
+      "es": "Fasolari 2u.",
+      "en": "Fasolari 2u."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "molluscs"
+    ],
+    "sourcePage": 9,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 1,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 4.8,
+    "image": "assets/dishes/tokyo-sh34.webp"
+  },
+  {
+    "reference": "SH36",
+    "category": "nigiri",
+    "name": {
+      "es": "Bigene atún",
+      "en": "Bigene atún"
+    },
+    "description": {
+      "es": "Atún con tartar de atún picante 2U. por 2 personas",
+      "en": "Tuna with spicy tuna tartare 2U. serves 2 people"
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "fish"
+    ],
+    "sourcePage": 9,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 1,
+    "twoPersons": true,
+    "isNew": false,
+    "price": 8.0,
+    "image": "assets/dishes/tokyo-sh36.webp"
+  },
+  {
+    "reference": "SH38",
+    "category": "nigiri",
+    "name": {
+      "es": "Bigene salmón",
+      "en": "Bigene salmón"
+    },
+    "description": {
+      "es": "Salmón flameado con mayonesa picante y pistacho 2U.",
+      "en": "Seared salmon, spicy mayonnaise and pistachio 2U."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "fish"
+    ],
+    "sourcePage": 9,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 2,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 6.0,
+    "image": "assets/dishes/tokyo-sh38.webp"
+  },
+  {
+    "reference": "SH40",
+    "category": "nigiri",
+    "name": {
+      "es": "Tamagoyaki",
+      "en": "Tamagoyaki"
+    },
+    "description": {
+      "es": "Tortilla japonesa con mayonesa flameada 2U.",
+      "en": "Japanese omelet with flamed mayonnaise 2U."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "egg",
+      "sulphites"
+    ],
+    "sourcePage": 9,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 5.0,
+    "image": "assets/dishes/tokyo-sh40.webp"
+  },
+  {
+    "reference": "SH31",
+    "category": "nigiri",
+    "name": {
+      "es": "Shake",
+      "en": "Shake"
+    },
+    "description": {
+      "es": "Salmón 2u.",
+      "en": "Salmon 2u."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "fish"
+    ],
+    "sourcePage": 9,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 5.0,
+    "image": "assets/dishes/tokyo-sh31.webp"
+  },
+  {
+    "reference": "SH33",
+    "category": "nigiri",
+    "name": {
+      "es": "Neto",
+      "en": "Neto"
+    },
+    "description": {
+      "es": "Dorada con salsa ciruela 2u.",
+      "en": "Sea bream with plum sauce. 2u."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "fish"
+    ],
+    "sourcePage": 9,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 5.0,
+    "image": "assets/dishes/tokyo-sh33.webp"
+  },
+  {
+    "reference": "SH35",
+    "category": "nigiri",
+    "name": {
+      "es": "Shakeaburi",
+      "en": "Shakeaburi"
+    },
+    "description": {
+      "es": "Salmón flameado salsa teriyaki 2u.",
+      "en": "Flame-seared salmon with teriyaki sauce 2u."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "fish",
+      "sulphites"
+    ],
+    "sourcePage": 9,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 5.0,
+    "image": "assets/dishes/tokyo-sh35.webp"
+  },
+  {
+    "reference": "SH37",
+    "category": "nigiri",
+    "name": {
+      "es": "Masago",
+      "en": "Masago"
+    },
+    "description": {
+      "es": "Hueva de pez capelin 2U.",
+      "en": "Capelin fish roe 2u."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "fish",
+      "sulphites"
+    ],
+    "sourcePage": 9,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 5.0,
+    "image": "assets/dishes/tokyo-sh37.webp"
+  },
+  {
+    "reference": "SH39",
+    "category": "nigiri",
+    "name": {
+      "es": "Corvina",
+      "en": "Corvina"
+    },
+    "description": {
+      "es": "Corvina con salsa teriyaki y trufa 2 u",
+      "en": "Sea bass with teriyaki sauce and truffle 2U."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "fish",
+      "gluten",
+      "soy"
+    ],
+    "sourcePage": 9,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 1,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 5.0,
+    "image": "assets/dishes/tokyo-sh39.webp"
+  },
+  {
+    "reference": "SH41",
+    "category": "nigiri",
+    "name": {
+      "es": "Ika",
+      "en": "Ika"
+    },
+    "description": {
+      "es": "Calamares fameados 2U.",
+      "en": "Flame-seared squid. 2U."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "molluscs"
+    ],
+    "sourcePage": 9,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 5.0,
+    "image": "assets/dishes/tokyo-sh41.webp"
+  },
+  {
+    "reference": "SH42",
+    "category": "nigiri",
+    "name": {
+      "es": "Aburi maguro",
+      "en": "Aburi maguro"
+    },
+    "description": {
+      "es": "Atún flameado con crema de burrata y salsa de teriyaki 2U.",
+      "en": "Flame-seared tuna with burrata cream and teriyaki sauce 2 pcs."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "fish",
+      "sulphites",
+      "gluten"
+    ],
+    "sourcePage": 10,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 6.0,
+    "image": "assets/dishes/tokyo-sh42.webp"
+  },
+  {
+    "reference": "SH44",
+    "category": "nigiri",
+    "name": {
+      "es": "Tobikko",
+      "en": "Tobikko"
+    },
+    "description": {
+      "es": "Huevas de pez volador 2U.",
+      "en": "Flying fish roe 2U."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "fish",
+      "sulphites"
+    ],
+    "sourcePage": 10,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 5.5,
+    "image": "assets/dishes/tokyo-sh44.webp"
+  },
+  {
+    "reference": "SH46",
+    "category": "nigiri",
+    "name": {
+      "es": "Tako",
+      "en": "Tako"
+    },
+    "description": {
+      "es": "Pulpo 2U.",
+      "en": "Octopus 2U."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "molluscs"
+    ],
+    "sourcePage": 10,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 1,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 6.0,
+    "image": "assets/dishes/tokyo-sh46.webp"
+  },
+  {
+    "reference": "SH48",
+    "category": "nigiri",
+    "name": {
+      "es": "Amaebi",
+      "en": "Amaebi"
+    },
+    "description": {
+      "es": "Gambón crudo 2u. para 2 personas",
+      "en": "Gambon raw 2u. for 2 people"
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "crustaceans",
+      "sulphites"
+    ],
+    "sourcePage": 10,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 1,
+    "twoPersons": true,
+    "isNew": false,
+    "price": 8.0,
+    "image": "assets/dishes/tokyo-sh48.webp"
+  },
+  {
+    "reference": "SH50",
+    "category": "nigiri",
+    "name": {
+      "es": "Kanikama",
+      "en": "Kanikama"
+    },
+    "description": {
+      "es": "Surimi flameado y mayonesa 2u.",
+      "en": "Flamed surimi and mayonnaise 2u."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "crustaceans",
+      "molluscs",
+      "fish",
+      "egg",
+      "gluten",
+      "sulphites"
+    ],
+    "sourcePage": 10,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 5.0,
+    "image": "assets/dishes/tokyo-sh50.webp"
+  },
+  {
+    "reference": "SH57",
+    "category": "nigiri",
+    "name": {
+      "es": "Nigiri mix",
+      "en": "Nigiri mix"
+    },
+    "description": {
+      "es": "Wagyu con trufa, calamar, gamba,atoro, kisu topping, total 5u.",
+      "en": "Wagyu with truffle, squid, shrimp,toro, kisu topping, total 5u."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "fish",
+      "sulphites",
+      "soy",
+      "crustaceans",
+      "molluscs"
+    ],
+    "sourcePage": 10,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 1,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 15.0,
+    "image": "assets/dishes/tokyo-sh57.webp"
+  },
+  {
+    "reference": "SH43",
+    "category": "nigiri",
+    "name": {
+      "es": "Unagi",
+      "en": "Unagi"
+    },
+    "description": {
+      "es": "Anguila kabayaki 2u.",
+      "en": "Kabayaki eel · 2 pcs."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "fish",
+      "sulphites",
+      "gluten",
+      "soy"
+    ],
+    "sourcePage": 10,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 1,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 6.0,
+    "image": "assets/dishes/tokyo-sh43.webp"
+  },
+  {
+    "reference": "SH45",
+    "category": "nigiri",
+    "name": {
+      "es": "Saba",
+      "en": "Saba"
+    },
+    "description": {
+      "es": "Caballa 2U.",
+      "en": "Mackerel 2U."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "fish",
+      "sulphites"
+    ],
+    "sourcePage": 10,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 5.0,
+    "image": "assets/dishes/tokyo-sh45.webp"
+  },
+  {
+    "reference": "SH47",
+    "category": "nigiri",
+    "name": {
+      "es": "Ikura",
+      "en": "Ikura"
+    },
+    "description": {
+      "es": "Salmón con hueva de salmón 2U. por 2 personas",
+      "en": "Salmon with salmon roe 2U. serves 2 people"
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "fish"
+    ],
+    "sourcePage": 10,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 1,
+    "twoPersons": true,
+    "isNew": false,
+    "price": 8.0,
+    "image": "assets/dishes/tokyo-sh47.webp"
+  },
+  {
+    "reference": "SH49",
+    "category": "nigiri",
+    "name": {
+      "es": "Aburi mantequilla",
+      "en": "Aburi mantequilla"
+    },
+    "description": {
+      "es": "Pez mantequilla flameado con tartar de pez mantequilla y salsa de trufa 2u.",
+      "en": "Butterfish flambéed with butterfish tartare and truffle sauce 2u."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "fish",
+      "gluten"
+    ],
+    "sourcePage": 10,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 6.0,
+    "image": "assets/dishes/tokyo-sh49.webp"
+  },
+  {
+    "reference": "SH56",
+    "category": "nigiri",
+    "name": {
+      "es": "Inari",
+      "en": "Inari"
+    },
+    "description": {
+      "es": "Saco de de tofu relleno de arroz marinado 2u.",
+      "en": "Typical sack of tofu filled with marinated rice 2u."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "soy",
+      "sulphites",
+      "gluten"
+    ],
+    "sourcePage": 10,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 4.5,
+    "image": "assets/dishes/tokyo-sh56.webp"
+  },
+  {
+    "reference": "SH58",
+    "category": "nigiri",
+    "name": {
+      "es": "Vierra",
+      "en": "Vierra"
+    },
+    "description": {
+      "es": "Flameadas con salsa de ají amarillo y panko 2. para 2 personas",
+      "en": "Flame scallops with yellow ají sauce and panko 2u. for 2 peoble"
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "molluscs",
+      "egg",
+      "gluten",
+      "sulphites"
+    ],
+    "sourcePage": 10,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 1,
+    "twoPersons": true,
+    "isNew": false,
+    "price": 5.0,
+    "image": "assets/dishes/tokyo-sh58.webp"
+  },
+  {
+    "reference": "HM79",
+    "category": "hosomaki",
+    "name": {
+      "es": "Shake abokado",
+      "en": "Shake abokado"
+    },
+    "description": {
+      "es": "Mini rollo con aguacate y salmón 6u.",
+      "en": "Mini roll with avocado and salmona 6u."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "fish"
+    ],
+    "sourcePage": 11,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 6.0,
+    "image": "assets/dishes/tokyo-hm79.webp"
+  },
+  {
+    "reference": "HM81",
+    "category": "hosomaki",
+    "name": {
+      "es": "Kappa maki",
+      "en": "Kappa maki"
+    },
+    "description": {
+      "es": "Mini rollo con pepino 6u.",
+      "en": "Mini roll with cucumber 6u."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [],
+    "sourcePage": 11,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 5.0,
+    "image": "assets/dishes/tokyo-hm81.webp"
+  },
+  {
+    "reference": "HM83",
+    "category": "hosomaki",
+    "name": {
+      "es": "Ichigo tempura maki",
+      "en": "Ichigo tempura maki"
+    },
+    "description": {
+      "es": "Mini rollo - tempura con salmón, philadelphia y fresas 6u.",
+      "en": "Mini roll - tempura with salmon, philadelphia and strawberries 6u."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "fish",
+      "sulphites",
+      "egg",
+      "gluten",
+      "milk",
+      "soy"
+    ],
+    "sourcePage": 11,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 10.0,
+    "image": "assets/dishes/tokyo-hm83.webp"
+  },
+  {
+    "reference": "HM85",
+    "category": "hosomaki",
+    "name": {
+      "es": "Osomaki",
+      "en": "Osomaki"
+    },
+    "description": {
+      "es": "Mini rollo tempura con salmón, cebolla 6u.",
+      "en": "Mini roll with salmon and onion 6u."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "fish"
+    ],
+    "sourcePage": 11,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 10.0,
+    "image": "assets/dishes/tokyo-hm85.webp"
+  },
+  {
+    "reference": "HM87",
+    "category": "hosomaki",
+    "name": {
+      "es": "Shake maki",
+      "en": "Shake maki"
+    },
+    "description": {
+      "es": "Mini rollo con salmón 6u.",
+      "en": "Mini roll with salmon 6u."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "fish"
+    ],
+    "sourcePage": 11,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 6.0,
+    "image": "assets/dishes/tokyo-hm87.webp"
+  },
+  {
+    "reference": "HM80",
+    "category": "hosomaki",
+    "name": {
+      "es": "Abokado maki",
+      "en": "Abokado maki"
+    },
+    "description": {
+      "es": "Mini rollo con aguacate 6u.",
+      "en": "Mini roll with avocado 6u."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [],
+    "sourcePage": 11,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 5.0,
+    "image": "assets/dishes/tokyo-hm80.webp"
+  },
+  {
+    "reference": "HM82",
+    "category": "hosomaki",
+    "name": {
+      "es": "Tekka maki",
+      "en": "Tekka maki"
+    },
+    "description": {
+      "es": "Mini rollo con atún 6u.",
+      "en": "Mini roll with tuna 6u."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "fish"
+    ],
+    "sourcePage": 11,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 8.0,
+    "image": "assets/dishes/tokyo-hm82.webp"
+  },
+  {
+    "reference": "HM84",
+    "category": "hosomaki",
+    "name": {
+      "es": "Ebi shake",
+      "en": "Ebi shake"
+    },
+    "description": {
+      "es": "Mini rollo con gambas y salmón 6u.",
+      "en": "Mini roll with salmon and prawns 6u."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "fish",
+      "sulphites"
+    ],
+    "sourcePage": 11,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 8.0,
+    "image": "assets/dishes/tokyo-hm84.webp"
+  },
+  {
+    "reference": "HM86",
+    "category": "hosomaki",
+    "name": {
+      "es": "Spacy tuna maki",
+      "en": "Spacy tuna maki"
+    },
+    "description": {
+      "es": "Mini rollo con atún picante 6u.",
+      "en": "Mini roll with spacy tuna 6u."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "fish",
+      "sulphites",
+      "egg"
+    ],
+    "sourcePage": 11,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 8.0,
+    "image": "assets/dishes/tokyo-hm86.webp"
+  },
+  {
+    "reference": "HM77",
+    "category": "hosomaki",
+    "name": {
+      "es": "Maki volcano",
+      "en": "Maki volcano"
+    },
+    "description": {
+      "es": "Pollo crujiente en tempura, cheddar, spicy mayo y masago 8 uds.",
+      "en": "Crispy tempura chicken with cheddar, spicy mayo and masago — 8 pcs."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "fish",
+      "milk",
+      "egg"
+    ],
+    "sourcePage": 11,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 12.0,
+    "image": "assets/dishes/tokyo-hm77.webp"
+  },
+  {
+    "reference": "TK51",
+    "category": "temaki",
+    "name": {
+      "es": "Ebi ten aguacate temaki",
+      "en": "Ebi ten aguacate temaki"
+    },
+    "description": {
+      "es": "Temaki - tempura de gamba y aguacate 1u.",
+      "en": "Temaki - tempura shrimp and avocado 1u."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "gluten",
+      "crustaceans",
+      "egg"
+    ],
+    "sourcePage": 12,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 5.8,
+    "image": "assets/dishes/tokyo-tk51.webp"
+  },
+  {
+    "reference": "TK52",
+    "category": "temaki",
+    "name": {
+      "es": "Spyci shake temaki",
+      "en": "Spyci shake temaki"
+    },
+    "description": {
+      "es": "Temaki salmón picante (o atún) 1u.",
+      "en": "Spicy salmon temaki (or tuna) 1u."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "fish",
+      "sulphites"
+    ],
+    "sourcePage": 12,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 5.5,
+    "image": "assets/dishes/tokyo-tk52.webp"
+  },
+  {
+    "reference": "TK53",
+    "category": "temaki",
+    "name": {
+      "es": "Maguro california temaki",
+      "en": "Maguro california temaki"
+    },
+    "description": {
+      "es": "Atún, aguacate, pepino, masago, ensalada, salsa y sésamo 1u.",
+      "en": "Tuna, avocado, cucumber, masago, salad, salsa and sesame 1u"
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "fish",
+      "sesame",
+      "gluten",
+      "sulphites"
+    ],
+    "sourcePage": 12,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 7.8,
+    "image": "assets/dishes/tokyo-tk53.webp"
+  },
+  {
+    "reference": "TK54",
+    "category": "temaki",
+    "name": {
+      "es": "Shake avokado",
+      "en": "Shake avokado"
+    },
+    "description": {
+      "es": "Temaki con salmón y aguacate 1u.",
+      "en": "Temaki with salmon and avocado 1u."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "fish"
+    ],
+    "sourcePage": 12,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 5.8,
+    "image": "assets/dishes/tokyo-tk54.webp"
+  },
+  {
+    "reference": "TK55",
+    "category": "temaki",
+    "name": {
+      "es": "Spacy tuna especial",
+      "en": "Spacy tuna especial"
+    },
+    "description": {
+      "es": "Mini rollo con atún picante 3u.",
+      "en": "Mini roll with spacy tuna 3u."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "fish",
+      "sulphites"
+    ],
+    "sourcePage": 12,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 8.0,
+    "image": "assets/dishes/tokyo-tk55.webp"
+  },
+  {
+    "reference": "RS60",
+    "category": "rollitos",
+    "name": {
+      "es": "Cheddar roll",
+      "en": "Cheddar roll"
+    },
+    "description": {
+      "es": "Rollo de surimi con aguacate, cheddar flameado, mayonesa, y teriyaki 8u.",
+      "en": "Surimi roll with avocado, flamed cheddar, mayonnaise, and teriyaki 8u."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "gluten",
+      "milk",
+      "crustaceans",
+      "sesame",
+      "soy"
+    ],
+    "sourcePage": 13,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 12.0,
+    "image": "assets/dishes/tokyo-rs60.webp"
+  },
+  {
+    "reference": "RS61",
+    "category": "rollitos",
+    "name": {
+      "es": "Rollo vegetal rollo de aguacate, mango 8u.",
+      "en": "Rollo vegetal rollo de aguacate, mango 8u."
+    },
+    "description": {
+      "es": "",
+      "en": "Avocado roll, mango 8u."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "sesame"
+    ],
+    "sourcePage": 13,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 10.0,
+    "image": "assets/dishes/tokyo-rs61.webp"
+  },
+  {
+    "reference": "RS62",
+    "category": "rollitos",
+    "name": {
+      "es": "New futomaki",
+      "en": "New futomaki"
+    },
+    "description": {
+      "es": "Timpura de rollo crujiente con abocado, salmón y Philadelphia al reducción de teriyaki. 4u.",
+      "en": "Crispy tempura roll filled with avocado, salmon and Philadelphia cream cheese, drizzled with a teriyaki reduction 4u"
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "gluten",
+      "milk",
+      "crustaceans",
+      "sesame",
+      "soy",
+      "egg"
+    ],
+    "sourcePage": 13,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 7.8,
+    "image": "assets/dishes/tokyo-rs62.webp"
+  },
+  {
+    "reference": "RS63",
+    "category": "rollitos",
+    "name": {
+      "es": "Rollo tropical",
+      "en": "Rollo tropical"
+    },
+    "description": {
+      "es": "Sashimi con salmón y mango, rellenos con aguacate, surimi picado, masago rojo y negro con salsa de mango 8u.",
+      "en": "Sashimi with salmon and mango, stuffed with avocado, chopped surimi, red, black masago and mango sauce 8u."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "gluten",
+      "fish",
+      "crustaceans",
+      "sulphites",
+      "sesame",
+      "soy",
+      "egg"
+    ],
+    "sourcePage": 13,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 14.0,
+    "image": "assets/dishes/tokyo-rs63.webp"
+  },
+  {
+    "reference": "RS64",
+    "category": "rollitos",
+    "name": {
+      "es": "Rollo hawaiano",
+      "en": "Rollo hawaiano"
+    },
+    "description": {
+      "es": "Rollo california relleno de surimi picado y aguacate cubierto con atún fresco 8u.",
+      "en": "California roll stuffed with chopped surimi and avocado topped with fresh tuna 8u."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "fish",
+      "gluten",
+      "sesame",
+      "crustaceans"
+    ],
+    "sourcePage": 13,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 15.0,
+    "image": "assets/dishes/tokyo-rs64.webp"
+  },
+  {
+    "reference": "RS65",
+    "category": "rollitos",
+    "name": {
+      "es": "California",
+      "en": "California"
+    },
+    "description": {
+      "es": "Uramaki de surimi picado y aguacate 8u.",
+      "en": "Chopped surimi uramaki and avocado 8u."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "crustaceans",
+      "gluten",
+      "sesame"
+    ],
+    "sourcePage": 13,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 10.0,
+    "image": "assets/dishes/tokyo-rs65.webp"
+  },
+  {
+    "reference": "RS66",
+    "category": "rollitos",
+    "name": {
+      "es": "Espacial banzai",
+      "en": "Espacial banzai"
+    },
+    "description": {
+      "es": "Tartar de pez mantequilla con salsa de truba 6u.",
+      "en": "Butter fish tartare with truffle 6u."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "fish",
+      "soy",
+      "sulphites",
+      "sesame"
+    ],
+    "sourcePage": 14,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 12.0,
+    "image": "assets/dishes/tokyo-rs66.webp"
+  },
+  {
+    "reference": "RS67",
+    "category": "rollitos",
+    "name": {
+      "es": "Supaidaroru",
+      "en": "Supaidaroru"
+    },
+    "description": {
+      "es": "Rollo frito con pato y salsa de sésamo 8u.",
+      "en": "Fried roll with duck and sesame sauce 8u."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "soy",
+      "sesame",
+      "gluten",
+      "egg"
+    ],
+    "sourcePage": 14,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 10.8,
+    "image": "assets/dishes/tokyo-rs67.webp"
+  },
+  {
+    "reference": "RS69",
+    "category": "rollitos",
+    "name": {
+      "es": "Sake waka",
+      "en": "Sake waka"
+    },
+    "description": {
+      "es": "Aguacate, salmón 8u.",
+      "en": "Avocado, salmon8u."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "fish",
+      "sulphites",
+      "sesame",
+      "soy"
+    ],
+    "sourcePage": 14,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 10.8,
+    "image": "assets/dishes/tokyo-rs69.webp"
+  },
+  {
+    "reference": "RS70",
+    "category": "rollitos",
+    "name": {
+      "es": "Diablo salmón",
+      "en": "Diablo salmón"
+    },
+    "description": {
+      "es": "Salmón picante, cubierto con salmón 8u.",
+      "en": "Spicy salmon topped with salmon 8u."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "fish",
+      "sulphites",
+      "sesame"
+    ],
+    "sourcePage": 14,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 12.0,
+    "image": "assets/dishes/tokyo-rs70.webp"
+  },
+  {
+    "reference": "RS71",
+    "category": "rollitos",
+    "name": {
+      "es": "Toro aburi roll",
+      "en": "Toro aburi roll"
+    },
+    "description": {
+      "es": "Ventresca de atún flameado, cangrejo, aguacate 4u.",
+      "en": "Tuna belly flame, crab, avocado 4u."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "fish",
+      "soy",
+      "sesame",
+      "gluten"
+    ],
+    "sourcePage": 14,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 1,
+    "twoPersons": true,
+    "isNew": false,
+    "price": 14.8,
+    "image": "assets/dishes/tokyo-rs71.webp"
+  },
+  {
+    "reference": "RS72",
+    "category": "rollitos",
+    "name": {
+      "es": "Rollo shakeaburi",
+      "en": "Rollo shakeaburi"
+    },
+    "description": {
+      "es": "Salmón flameado con cangrejo y salsa de teriyaki 8u.",
+      "en": "Torched salmon with crab and teriyaki sauce (8 pcs.)."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "fish",
+      "soy",
+      "sesame",
+      "gluten",
+      "sulphites",
+      "crustaceans"
+    ],
+    "sourcePage": 14,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 12.0,
+    "image": "assets/dishes/tokyo-rs72.webp"
+  },
+  {
+    "reference": "RS73",
+    "category": "rollitos",
+    "name": {
+      "es": "Banzai",
+      "en": "Banzai"
+    },
+    "description": {
+      "es": "Tempura de langostinos y carne de surimi picado envuelto en grano tempura, masago y salsa teriyaki 8u.",
+      "en": "Prawn tempura and minced surimi meat wrapped in tempura grain, masago and teriyaki sauce 8u."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "egg",
+      "soy",
+      "crustaceans",
+      "sesame",
+      "gluten"
+    ],
+    "sourcePage": 15,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 9.8,
+    "image": "assets/dishes/tokyo-rs73.webp"
+  },
+  {
+    "reference": "RS74",
+    "category": "rollitos",
+    "name": {
+      "es": "Arcoiris",
+      "en": "Arcoiris"
+    },
+    "description": {
+      "es": "Rollo mixto de atún, salmón, pez mantequilla y gamba relleno de aguacate, cangrejo y mayonesa 8u.",
+      "en": "Mixed roll of tuna, salmon, butterfish and prawn stuffed with avocado, crab and mayonnaise 8u."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "fish",
+      "sulphites",
+      "sesame"
+    ],
+    "sourcePage": 15,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 14.0,
+    "image": "assets/dishes/tokyo-rs74.webp"
+  },
+  {
+    "reference": "RS75",
+    "category": "rollitos",
+    "name": {
+      "es": "Rollo sésamo",
+      "en": "Rollo sésamo"
+    },
+    "description": {
+      "es": "Rollo de philadelphia y salmón envuelto de sésamo negro 6u.",
+      "en": "Philadelphia roll and black sesame wrapped salmon 6u"
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "fish",
+      "sulphites",
+      "sesame",
+      "milk"
+    ],
+    "sourcePage": 15,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 12.0,
+    "image": "assets/dishes/tokyo-rs75.webp"
+  },
+  {
+    "reference": "RS76",
+    "category": "rollitos",
+    "name": {
+      "es": "Diablo atún",
+      "en": "Diablo atún"
+    },
+    "description": {
+      "es": "Atún spicy envuelto en sésamo tostado al kimuchi y mayonesa 8u.",
+      "en": "Spicy tuna wrapped in toasted sesame seeds with kimuchi and mayonnaise 8u"
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "fish",
+      "sulphites",
+      "sesame"
+    ],
+    "sourcePage": 15,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 12.0,
+    "image": "assets/dishes/tokyo-rs76.webp"
+  },
+  {
+    "reference": "RS78",
+    "category": "rollitos",
+    "name": {
+      "es": "Katsuobushi roll",
+      "en": "Katsuobushi roll"
+    },
+    "description": {
+      "es": "Tartar de atún spicy y katsusushi 8u.",
+      "en": "Spicy tuna tartare with Katsu Sushi 8u"
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "fish",
+      "sulphites",
+      "sesame"
+    ],
+    "sourcePage": 15,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 12.0,
+    "image": "assets/dishes/tokyo-rs78.webp"
+  },
+  {
+    "reference": "CR91",
+    "category": "carpaccio",
+    "name": {
+      "es": "Carpaccio de salmón y pez mantequilla",
+      "en": "Carpaccio de salmón y pez mantequilla"
+    },
+    "description": {
+      "es": "Carpaccio de finas láminas de salmón fresco y pez mantequilla, aderezado con ponzu aromático y cebolla frita crujiente. 4u.",
+      "en": "Carpaccio of thinly sliced fresh salmon and butterfish, dressed with aromatic ponzu and crispy fried onion. 4u."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "gluten",
+      "fish",
+      "soy",
+      "sulphites"
+    ],
+    "sourcePage": 16,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 2,
+    "twoPersons": true,
+    "isNew": false,
+    "price": 12.0,
+    "image": "assets/dishes/tokyo-cr91.webp"
+  },
+  {
+    "reference": "CR97",
+    "category": "carpaccio",
+    "name": {
+      "es": "Carpaccio de gambón",
+      "en": "Carpaccio de gambón"
+    },
+    "description": {
+      "es": "Con salsa ponzu y tobiko 4u.",
+      "en": "With ponzu sauce and tobiko 4u."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "gluten",
+      "fish",
+      "egg",
+      "soy",
+      "sulphites"
+    ],
+    "sourcePage": 16,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 1,
+    "twoPersons": true,
+    "isNew": false,
+    "price": 12.0,
+    "image": "assets/dishes/tokyo-cr97.webp"
+  },
+  {
+    "reference": "CR93",
+    "category": "carpaccio",
+    "name": {
+      "es": "Tataki de atún",
+      "en": "Tataki de atún"
+    },
+    "description": {
+      "es": "Tataki de atún con salsa kewpi-sésamo 4u.",
+      "en": "Tuna tataki with Kewpie-sesame mayonnaise 4u."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": null,
+    "sourcePage": 16,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 2,
+    "twoPersons": true,
+    "isNew": false,
+    "price": 14.0,
+    "image": "assets/dishes/tokyo-cr93.webp"
+  },
+  {
+    "reference": "CR96",
+    "category": "carpaccio",
+    "name": {
+      "es": "Tataki de wagyu",
+      "en": "Tataki de wagyu"
+    },
+    "description": {
+      "es": "Wagyu nacional con salsa ponzu 4u.",
+      "en": "4 wagyu national steaks with ponzu sauce."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "gluten",
+      "soy",
+      "sulphites"
+    ],
+    "sourcePage": 16,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 1,
+    "twoPersons": true,
+    "isNew": false,
+    "price": 14.0,
+    "image": "assets/dishes/tokyo-cr96.webp"
+  },
+  {
+    "reference": "SM92",
+    "category": "sashimi",
+    "name": {
+      "es": "Shake sashimi",
+      "en": "Shake sashimi"
+    },
+    "description": {
+      "es": "Sashimi de salmón 6u.",
+      "en": "Salmon sashimi 6u."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "fish"
+    ],
+    "sourcePage": 17,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 2,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 10.8,
+    "image": "assets/dishes/tokyo-sm92.webp"
+  },
+  {
+    "reference": "SM95",
+    "category": "sashimi",
+    "name": {
+      "es": "Sashimi mix",
+      "en": "Sashimi mix"
+    },
+    "description": {
+      "es": "Sashimi mixto atún 2u, salmón 2u. y pescado blanco 2u.",
+      "en": "Mixed sashimi tuna 2u, salmon 2u., and white fish 2u."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "fish"
+    ],
+    "sourcePage": 17,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 1,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 14.8,
+    "image": "assets/dishes/tokyo-sm95.webp"
+  },
+  {
+    "reference": "TA94",
+    "category": "tartar",
+    "name": {
+      "es": "Tartar sake negi",
+      "en": "Tartar sake negi"
+    },
+    "description": {
+      "es": "Tartar salmón con almendras y negi.",
+      "en": "Salmon tartare with almonds and negi."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "gluten",
+      "soy",
+      "sesame",
+      "egg",
+      "sulphites"
+    ],
+    "sourcePage": 17,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 1,
+    "twoPersons": true,
+    "isNew": false,
+    "price": 10.8,
+    "image": "assets/dishes/tokyo-ta94.webp"
+  },
+  {
+    "reference": "TA98",
+    "category": "tartar",
+    "name": {
+      "es": "Tartar de salmón",
+      "en": "Tartar de salmón"
+    },
+    "description": {
+      "es": "Tartar de salmón con salsa de trufa y topigo negro y láminas crujientes.",
+      "en": "Salmon tartare with truffle sauce, black tobiko and crispy wonton sheets."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "gluten",
+      "fish",
+      "soy",
+      "sulphites"
+    ],
+    "sourcePage": 17,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 1,
+    "twoPersons": true,
+    "isNew": false,
+    "price": 18.0,
+    "image": "assets/dishes/tokyo-ta98.webp"
+  },
+  {
+    "reference": "CR118",
+    "category": "carnes",
+    "name": {
+      "es": "Teriyaki de pollo",
+      "en": "Teriyaki de pollo"
+    },
+    "description": {
+      "es": "Pollo, arroz blanco, cebolla y salsa teriyaki.",
+      "en": "Chicken, white rice, onion and teriyaki sauce."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "soy",
+      "sesame"
+    ],
+    "sourcePage": 18,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 9.8,
+    "image": "assets/dishes/tokyo-cr118.webp"
+  },
+  {
+    "reference": "CR126",
+    "category": "carnes",
+    "name": {
+      "es": "Yakitori",
+      "en": "Yakitori"
+    },
+    "description": {
+      "es": "Brochetas de pollo en salsa teriyaki",
+      "en": "Chicken skewers in teriyaki sauce"
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "soy",
+      "sesame",
+      "gluten"
+    ],
+    "sourcePage": 18,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 5.5,
+    "image": "assets/dishes/tokyo-cr126.webp"
+  },
+  {
+    "reference": "CR119",
+    "category": "carnes",
+    "name": {
+      "es": "Pinchos secreto",
+      "en": "Pinchos secreto"
+    },
+    "description": {
+      "es": "Secreto de cerdo 2 u",
+      "en": "Pig secret 2 u"
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "gluten",
+      "sesame",
+      "soy"
+    ],
+    "sourcePage": 18,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 8.8,
+    "image": "assets/dishes/tokyo-cr119.webp"
+  },
+  {
+    "reference": "CR128",
+    "category": "carnes",
+    "name": {
+      "es": "Yakiniku",
+      "en": "Yakiniku"
+    },
+    "description": {
+      "es": "Entrecot de ternera con salsa yakiniku.",
+      "en": "Beef entrecôte with yakiniku sauce."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "gluten",
+      "sesame",
+      "soy"
+    ],
+    "sourcePage": 18,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 2,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 14.8,
+    "image": "assets/dishes/tokyo-cr128.webp"
+  },
+  {
+    "reference": "CR129",
+    "category": "carnes",
+    "name": {
+      "es": "Pollo estilo thai",
+      "en": "Pollo estilo thai"
+    },
+    "description": {
+      "es": "Pollo con salsa de curry picante, arroz (opcional)",
+      "en": "Chicken with spicy curry sauce, rice (optional)"
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "sesame"
+    ],
+    "sourcePage": 18,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 14.0,
+    "image": "assets/dishes/tokyo-cr129.webp"
+  },
+  {
+    "reference": "CR117",
+    "category": "carnes",
+    "name": {
+      "es": "Pato al curry",
+      "en": "Pato al curry"
+    },
+    "description": {
+      "es": "Pato al curry",
+      "en": "Duck curry"
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "gluten",
+      "sesame"
+    ],
+    "sourcePage": 19,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 14.8,
+    "image": "assets/dishes/tokyo-cr117.webp"
+  },
+  {
+    "reference": "CR120",
+    "category": "carnes",
+    "name": {
+      "es": "Pato teriyaki",
+      "en": "Pato teriyaki"
+    },
+    "description": {
+      "es": "Pato con salsa de sésamo",
+      "en": "Duck with sesame sauce"
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "soy",
+      "sesame",
+      "gluten"
+    ],
+    "sourcePage": 19,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 14.8,
+    "image": "assets/dishes/tokyo-cr120.webp"
+  },
+  {
+    "reference": "CR124",
+    "category": "carnes",
+    "name": {
+      "es": "Chikin teriyaki",
+      "en": "Chikin teriyaki"
+    },
+    "description": {
+      "es": "Muslo de pollo a la plancha en salsa teriyaki",
+      "en": "Chicken drumstick grilled in teriyaki sauce"
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "gluten",
+      "sesame",
+      "soy",
+      "sulphites"
+    ],
+    "sourcePage": 19,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 9.8,
+    "image": "assets/dishes/tokyo-cr124.webp"
+  },
+  {
+    "reference": "CR125",
+    "category": "carnes",
+    "name": {
+      "es": "Chikin katsu",
+      "en": "Chikin katsu"
+    },
+    "description": {
+      "es": "Pechuga de pollo empanada",
+      "en": "Chicken breast patties"
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "gluten",
+      "sesame",
+      "soy",
+      "egg"
+    ],
+    "sourcePage": 19,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 9.8,
+    "image": "assets/dishes/tokyo-cr125.webp"
+  },
+  {
+    "reference": "CR123",
+    "category": "carnes",
+    "name": {
+      "es": "Tori karaage",
+      "en": "Tori karaage"
+    },
+    "description": {
+      "es": "Bollos de pollo con sabor a jengibre y ajo",
+      "en": "Chicken snacks with ginger and garlic flavor"
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "soy",
+      "gluten",
+      "sesame",
+      "egg",
+      "sulphites"
+    ],
+    "sourcePage": 19,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 10.8,
+    "image": "assets/dishes/tokyo-cr123.webp"
+  },
+  {
+    "reference": "MR131",
+    "category": "pescado",
+    "name": {
+      "es": "Ika syogayaki",
+      "en": "Ika syogayaki"
+    },
+    "description": {
+      "es": "Calamares a la plancha en salsa de jengibre “shoga”",
+      "en": "Grilled squid in ginger sauce “shoga”"
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "gluten",
+      "sesame",
+      "molluscs"
+    ],
+    "sourcePage": 20,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 2,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 14.8,
+    "image": "assets/dishes/tokyo-mr131.webp"
+  },
+  {
+    "reference": "MR132",
+    "category": "pescado",
+    "name": {
+      "es": "Shake",
+      "en": "Shake"
+    },
+    "description": {
+      "es": "Salmón a la plancha en salsa teriyaki.",
+      "en": "Grilled salmon with teriyaki sauce."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "soy",
+      "sesame",
+      "gluten"
+    ],
+    "sourcePage": 20,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 2,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 12.8,
+    "image": "assets/dishes/tokyo-mr132.webp"
+  },
+  {
+    "reference": "CR133",
+    "category": "pescado",
+    "name": {
+      "es": "Gallineta en tempura",
+      "en": "Gallineta en tempura"
+    },
+    "description": {
+      "es": "Gallineta en tempura crujiente, acompañada de una cremosa salsa de sésamo y miso",
+      "en": "Crispy tempura red scorpionfish, served with a creamy sesame and miso sauce"
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "fish",
+      "soy",
+      "sesame",
+      "gluten",
+      "egg"
+    ],
+    "sourcePage": 20,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 14.0,
+    "image": "assets/dishes/tokyo-cr133.webp"
+  },
+  {
+    "reference": "MR135",
+    "category": "pescado",
+    "name": {
+      "es": "Maguro syogayaki",
+      "en": "Maguro syogayaki"
+    },
+    "description": {
+      "es": "Atún fresco a la plancha en salsa de jengibre soja",
+      "en": "Fresh tuna steaks in ginger and soy sauce"
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "fish",
+      "gluten",
+      "sesame",
+      "soy"
+    ],
+    "sourcePage": 20,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 2,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 12.8,
+    "image": "assets/dishes/tokyo-mr135.webp"
+  },
+  {
+    "reference": "MR136",
+    "category": "pescado",
+    "name": {
+      "es": "Ebi tempura",
+      "en": "Ebi tempura"
+    },
+    "description": {
+      "es": "Tempura de gambas 4u.",
+      "en": "Shrimp tempura 4u."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "crustaceans",
+      "gluten",
+      "egg",
+      "soy"
+    ],
+    "sourcePage": 21,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 10.8,
+    "image": "assets/dishes/tokyo-mr136.webp"
+  },
+  {
+    "reference": "MR137",
+    "category": "pescado",
+    "name": {
+      "es": "Langostino rebozado",
+      "en": "Langostino rebozado"
+    },
+    "description": {
+      "es": "Langostinos rebozados",
+      "en": "Battered king prawns."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "crustaceans",
+      "egg",
+      "gluten"
+    ],
+    "sourcePage": 21,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 10.8,
+    "image": "assets/dishes/tokyo-mr137.webp"
+  },
+  {
+    "reference": "CR138",
+    "category": "pescado",
+    "name": {
+      "es": "Langostinos ebi chili",
+      "en": "Langostinos ebi chili"
+    },
+    "description": {
+      "es": "Verduras de temporada con salsa de chili",
+      "en": "Seasonal vegetables with chili sauce."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "soy",
+      "sesame",
+      "gluten",
+      "crustaceans"
+    ],
+    "sourcePage": 21,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 14.0,
+    "image": "assets/dishes/tokyo-cr138.webp"
+  },
+  {
+    "reference": "CR139",
+    "category": "pescado",
+    "name": {
+      "es": "Langostinos estilo thai",
+      "en": "Langostinos estilo thai"
+    },
+    "description": {
+      "es": "Langostino con salsa de curry picante, arroz (opcional)",
+      "en": "King prawns with spicy curry sauce, rice (optional)."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "soy",
+      "sesame",
+      "gluten",
+      "crustaceans"
+    ],
+    "sourcePage": 21,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 14.0,
+    "image": "assets/dishes/tokyo-cr139.webp"
+  },
+  {
+    "reference": "PS180",
+    "category": "postres",
+    "name": {
+      "es": "Makis heladas",
+      "en": "Makis heladas"
+    },
+    "description": {
+      "es": "Delicioso helado con forma de makis. Sabores variados",
+      "en": "Delicious ice cream in the shape of makis. Varied flavors"
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "gluten",
+      "sesame",
+      "sulphites",
+      "egg"
+    ],
+    "sourcePage": 22,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 7.8,
+    "image": "assets/dishes/ps180.webp"
+  },
+  {
+    "reference": "PS181",
+    "category": "postres",
+    "name": {
+      "es": "Dorayaki",
+      "en": "Dorayaki"
+    },
+    "description": {
+      "es": "Bizcocho japonés relleno de azuki dulce (soja roja) / 70 g",
+      "en": "Japanese cake filling sweet azuki (red soy) / 70 g"
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "gluten",
+      "sesame",
+      "soy"
+    ],
+    "sourcePage": 22,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 5.5,
+    "image": "assets/dishes/tokyo-ps181.webp"
+  },
+  {
+    "reference": "PS182",
+    "category": "postres",
+    "name": {
+      "es": "Mousse de chocolate",
+      "en": "Mousse de chocolate"
+    },
+    "description": {
+      "es": "Pastel de mousse de chocolate",
+      "en": "Chocolate mousse cake"
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "peanuts",
+      "egg",
+      "gluten",
+      "milk",
+      "soy"
+    ],
+    "sourcePage": 22,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 7.8,
+    "image": "assets/dishes/tokyo-ps182.webp"
+  },
+  {
+    "reference": "PS185",
+    "category": "postres",
+    "name": {
+      "es": "Trufas japonesas",
+      "en": "Trufas japonesas"
+    },
+    "description": {
+      "es": "Trufas de té verde, y sake, 5 un.",
+      "en": "Truffles green tea and sake, 5 un."
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "gluten"
+    ],
+    "sourcePage": 22,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 8.0,
+    "image": "assets/dishes/tokyo-ps185.webp"
+  },
+  {
+    "reference": "PS186",
+    "category": "postres",
+    "name": {
+      "es": "Tiramisú nuevo estilo",
+      "en": "Tiramisú nuevo estilo"
+    },
+    "description": {
+      "es": "Tiramisú de té verde",
+      "en": "Green tea tiramisu"
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "gluten",
+      "milk",
+      "sulphites",
+      "egg"
+    ],
+    "sourcePage": 22,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 6.8,
+    "image": "assets/dishes/tokyo-ps186.webp"
+  },
+  {
+    "reference": "PS191",
+    "category": "postres",
+    "name": {
+      "es": "Piña",
+      "en": "Piña"
+    },
+    "description": {
+      "es": "Fruta natural",
+      "en": "Natural fruit"
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "gluten"
+    ],
+    "sourcePage": 22,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 6.8,
+    "image": "assets/dishes/tokyo-ps191.webp"
+  },
+  {
+    "reference": "PS187",
+    "category": "postres",
+    "name": {
+      "es": "Yuzu sorbet",
+      "en": "Yuzu sorbet"
+    },
+    "description": {
+      "es": "Yuzu es un cítrico que crece en japón",
+      "en": "Is a citrus yuzu grows in japan"
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "milk",
+      "sulphites",
+      "egg"
+    ],
+    "sourcePage": 23,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 6.8,
+    "image": "assets/dishes/tokyo-ps187.webp"
+  },
+  {
+    "reference": "PS188",
+    "category": "postres",
+    "name": {
+      "es": "Gari sorbet",
+      "en": "Gari sorbet"
+    },
+    "description": {
+      "es": "Helado de jengibre",
+      "en": "Ginger ice cream"
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "milk"
+    ],
+    "sourcePage": 23,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 5.8,
+    "image": "assets/dishes/tokyo-ps188.webp"
+  },
+  {
+    "reference": "PS189",
+    "category": "postres",
+    "name": {
+      "es": "Goma ice",
+      "en": "Goma ice"
+    },
+    "description": {
+      "es": "Helado de sésamo negro japonés",
+      "en": "Japanese black sesame ice cream"
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "milk",
+      "sesame"
+    ],
+    "sourcePage": 23,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 8.0,
+    "image": "assets/dishes/tokyo-ps189.webp"
+  },
+  {
+    "reference": "PS190",
+    "category": "postres",
+    "name": {
+      "es": "Maccha ice",
+      "en": "Maccha ice"
+    },
+    "description": {
+      "es": "Helado de té verde",
+      "en": "Green tea ice cream"
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "peanuts",
+      "egg",
+      "gluten",
+      "milk",
+      "soy"
+    ],
+    "sourcePage": 23,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 4.8,
+    "image": "assets/dishes/tokyo-ps190.webp"
+  },
+  {
+    "reference": "PS192",
+    "category": "postres",
+    "name": {
+      "es": "Daifuku aka",
+      "en": "Daifuku aka"
+    },
+    "description": {
+      "es": "Mochi rojo relleno de judia roja / 90 g",
+      "en": "Red mochi stuffed with red beans / 90 g"
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "soy"
+    ],
+    "sourcePage": 23,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 5.8,
+    "image": "assets/dishes/tokyo-ps192.webp"
+  },
+  {
+    "reference": "PS193",
+    "category": "postres",
+    "name": {
+      "es": "Huevo de chocolate blanco y mango",
+      "en": "Huevo de chocolate blanco y mango"
+    },
+    "description": {
+      "es": "Mousse de choc. blanc. con coulis de mango/95gaa",
+      "en": "Chocolate mousse. white with mango coulis/95g"
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "milk",
+      "soy",
+      "egg",
+      "gluten"
+    ],
+    "sourcePage": 23,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 8.5,
+    "image": "assets/dishes/tokyo-ps193.webp"
+  },
+  {
+    "reference": "PS196",
+    "category": "postres",
+    "name": {
+      "es": "Avellana frita",
+      "en": "Avellana frita"
+    },
+    "description": {
+      "es": "Galleta crujiente rellena de crema de avellanas y rebozada (elaboración casera)",
+      "en": "Crispy battered cookie filled with hazelnut cream (homemade)"
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "egg",
+      "milk",
+      "gluten"
+    ],
+    "sourcePage": 24,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 6.0,
+    "image": "assets/dishes/tokyo-ps196.webp"
+  },
+  {
+    "reference": "PS194",
+    "category": "postres",
+    "name": {
+      "es": "Suffle chocolate",
+      "en": "Suffle chocolate"
+    },
+    "description": {
+      "es": "Bizcocho de chocolate relleno de chocolate líquido / 90 g",
+      "en": "Chocolate sponge cake filled with liquid chocolate / 90 g"
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "egg",
+      "milk"
+    ],
+    "sourcePage": 24,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 8.0,
+    "image": "assets/dishes/tokyo-ps194.webp"
+  },
+  {
+    "reference": "PS195",
+    "category": "postres",
+    "name": {
+      "es": "Convento de bayleis",
+      "en": "Convento de bayleis"
+    },
+    "description": {
+      "es": "Barquillos de chocolate almendra relleno de mousse Baileys o relleno de mousse de te verde y piñones",
+      "en": "Almond chocolate wafers filled with Baileys mousse or stuffed with green tea mousse and pine nuts"
+    },
+    "portion": {
+      "es": "",
+      "en": ""
+    },
+    "allergens": [
+      "milk",
+      "egg",
+      "gluten",
+      "sulphites",
+      "soy"
+    ],
+    "sourcePage": 24,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 8.0,
+    "image": "assets/dishes/tokyo-ps195.webp"
+  },
+  {
+    "reference": "PS184",
+    "category": "postres",
+    "name": {
+      "es": "Mochi de helado",
+      "en": "Mochi de helado"
+    },
+    "description": {
+      "es": "Dos unidades. Elige tu sabor: pistacho, té verde, vainilla, chocolate, yuzu, mango o frambuesa.",
+      "en": "Two pieces. Choose your flavour: pistachio, green tea, vanilla, chocolate, yuzu, mango or raspberry."
+    },
+    "portion": {
+      "es": "2 uds.",
+      "en": "2 pcs."
+    },
+    "allergens": [
+      "sesame",
+      "peanuts",
+      "milk",
+      "gluten",
+      "sulphites",
+      "soy"
+    ],
+    "sourcePage": 24,
+    "sourceDocument": "Revista TOKYO - 20260929.pdf",
+    "buffetStars": 0,
+    "twoPersons": false,
+    "isNew": false,
+    "price": 6.8,
+    "flavours": [
+      {
+        "name": {
+          "es": "Pistacho",
+          "en": "Pistachio"
+        },
+        "image": "assets/dishes/mochi-pistacho.webp"
+      },
+      {
+        "name": {
+          "es": "Té verde",
+          "en": "Green tea"
+        },
+        "image": "assets/dishes/mochi-te-verde.webp"
+      },
+      {
+        "name": {
+          "es": "Vainilla",
+          "en": "Vanilla"
+        },
+        "image": "assets/dishes/mochi-vainilla.webp"
+      },
+      {
+        "name": {
+          "es": "Chocolate",
+          "en": "Chocolate"
+        },
+        "image": "assets/dishes/mochi-chocolate.webp"
+      },
+      {
+        "name": {
+          "es": "Yuzu",
+          "en": "Yuzu"
+        },
+        "image": "assets/dishes/mochi-yuzu.webp"
+      },
+      {
+        "name": {
+          "es": "Mango",
+          "en": "Mango"
+        },
+        "image": "assets/dishes/mochi-mango.webp"
+      },
+      {
+        "name": {
+          "es": "Frambuesa",
+          "en": "Raspberry"
+        },
+        "image": "assets/dishes/mochi-frambuesa.webp"
+      }
+    ],
+    "image": "assets/dishes/mochi-pistacho.webp"
+  }
+]

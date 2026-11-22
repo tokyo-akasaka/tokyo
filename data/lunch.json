@@ -1,0 +1,1039 @@
+{
+  "availability": {
+    "es": "Comida: lunes a viernes. Cena: lunes a jueves (+3 €). Excepto festivos.",
+    "en": "Lunch: Monday to Friday. Dinner: Monday to Thursday (+€3). Excluding public holidays."
+  },
+  "choice": {
+    "es": "Elige 2 primeros + 1 segundo. Incluye 1 bebida y gyoza de manzana con helado o café.",
+    "en": "Choose 2 starters + 1 main. Includes 1 drink and apple gyoza with ice cream or coffee."
+  },
+  "prices": {
+    "standard": 16.9,
+    "sushi": 17.9
+  },
+  "categories": [
+    {
+      "id": "primeros",
+      "name": {
+        "es": "Primeros · Elige 2",
+        "en": "Starters · Choose 2"
+      },
+      "icon": "starter"
+    },
+    {
+      "id": "segundos",
+      "name": {
+        "es": "Segundos · Elige 1",
+        "en": "Mains · Choose 1"
+      },
+      "icon": "bowl"
+    },
+    {
+      "id": "sushi",
+      "name": {
+        "es": "Segundos · Sushi",
+        "en": "Mains · Sushi"
+      },
+      "icon": "sushi"
+    }
+  ],
+  "dishes": [
+    {
+      "reference": "E6",
+      "category": "primeros",
+      "name": {
+        "es": "Cha giò hai san",
+        "en": "Cha giò hai san"
+      },
+      "description": {
+        "es": "Rollitos de marisco 4u. por 2 personas",
+        "en": "Seafood rolls 4u. serves 2 people"
+      },
+      "portion": {
+        "es": "",
+        "en": ""
+      },
+      "allergens": null,
+      "sourcePage": 2,
+      "sourceDocument": "TOKYO MENU COMIDA O CENA.pdf",
+      "buffetStars": 0,
+      "twoPersons": true,
+      "isNew": false,
+      "image": "assets/dishes/lunch-e6.webp"
+    },
+    {
+      "reference": "E21",
+      "category": "primeros",
+      "name": {
+        "es": "Gyoza de la casa",
+        "en": "Gyoza de la casa"
+      },
+      "description": {
+        "es": "Empanadilla con carne picada y verdura, hecho a mano 4u. por 2 personas",
+        "en": "Dumplings with minced meat and vegetables, handmade 4u. serves 2 people"
+      },
+      "portion": {
+        "es": "",
+        "en": ""
+      },
+      "allergens": null,
+      "sourcePage": 2,
+      "sourceDocument": "TOKYO MENU COMIDA O CENA.pdf",
+      "buffetStars": 0,
+      "twoPersons": true,
+      "isNew": false,
+      "image": "assets/dishes/lunch-e21.webp"
+    },
+    {
+      "reference": "E3",
+      "category": "primeros",
+      "name": {
+        "es": "Gyoza vegetal",
+        "en": "Gyoza vegetal"
+      },
+      "description": {
+        "es": "Empanadillas japonesas rellenas de mix de verduras con mayonesa picante 4U.",
+        "en": "Japanese dumplings filled with mixed vegetables and spicy mayonnaise 4U."
+      },
+      "portion": {
+        "es": "",
+        "en": ""
+      },
+      "allergens": null,
+      "sourcePage": 2,
+      "sourceDocument": "TOKYO MENU COMIDA O CENA.pdf",
+      "buffetStars": 0,
+      "twoPersons": false,
+      "isNew": false,
+      "image": "assets/dishes/lunch-e3.webp"
+    },
+    {
+      "reference": "ES20",
+      "category": "primeros",
+      "name": {
+        "es": "Gyoza tori",
+        "en": "Gyoza tori"
+      },
+      "description": {
+        "es": "Ravioli frito de pollo y verduras.4U.",
+        "en": "Fried chicken and vegetable ravioli. 4U."
+      },
+      "portion": {
+        "es": "",
+        "en": ""
+      },
+      "allergens": null,
+      "sourcePage": 2,
+      "sourceDocument": "TOKYO MENU COMIDA O CENA.pdf",
+      "buffetStars": 0,
+      "twoPersons": false,
+      "isNew": false,
+      "image": "assets/dishes/lunch-es20.webp"
+    },
+    {
+      "reference": "E5",
+      "category": "primeros",
+      "name": {
+        "es": "Harumaki",
+        "en": "Harumaki"
+      },
+      "description": {
+        "es": "Rollitos con verdura 5u.",
+        "en": "Rolls with vegetables 5u."
+      },
+      "portion": {
+        "es": "",
+        "en": ""
+      },
+      "allergens": null,
+      "sourcePage": 2,
+      "sourceDocument": "TOKYO MENU COMIDA O CENA.pdf",
+      "buffetStars": 0,
+      "twoPersons": false,
+      "isNew": false,
+      "image": "assets/dishes/lunch-e5.webp"
+    },
+    {
+      "reference": "E7",
+      "category": "primeros",
+      "name": {
+        "es": "Ebi kimono",
+        "en": "Ebi kimono"
+      },
+      "description": {
+        "es": "Gambas en kimono 4u.",
+        "en": "Prawns in kimono 4u."
+      },
+      "portion": {
+        "es": "",
+        "en": ""
+      },
+      "allergens": [
+        "gluten",
+        "sesame",
+        "egg",
+        "crustaceans"
+      ],
+      "sourcePage": 3,
+      "sourceDocument": "TOKYO MENU COMIDA O CENA.pdf",
+      "buffetStars": 0,
+      "twoPersons": false,
+      "isNew": false,
+      "image": "assets/dishes/lunch-e7.webp"
+    },
+    {
+      "reference": "E4",
+      "category": "primeros",
+      "name": {
+        "es": "Tiras de pollo",
+        "en": "Tiras de pollo"
+      },
+      "description": {
+        "es": "Pollo con salsa chili 4u.",
+        "en": "Chicken with chili sauce 4u."
+      },
+      "portion": {
+        "es": "",
+        "en": ""
+      },
+      "allergens": [
+        "gluten",
+        "milk",
+        "egg",
+        "soy"
+      ],
+      "sourcePage": 3,
+      "sourceDocument": "TOKYO MENU COMIDA O CENA.pdf",
+      "buffetStars": 0,
+      "twoPersons": false,
+      "isNew": false,
+      "image": "assets/dishes/lunch-e4.webp"
+    },
+    {
+      "reference": "E28",
+      "category": "primeros",
+      "name": {
+        "es": "Wantun frito",
+        "en": "Wantun frito"
+      },
+      "description": {
+        "es": "Rellenos de queso philadelphia y surimi 4u.",
+        "en": "Philadelphia cheese and surimi fillings 4u."
+      },
+      "portion": {
+        "es": "",
+        "en": ""
+      },
+      "allergens": null,
+      "sourcePage": 3,
+      "sourceDocument": "TOKYO MENU COMIDA O CENA.pdf",
+      "buffetStars": 0,
+      "twoPersons": false,
+      "isNew": false,
+      "image": "assets/dishes/lunch-e28.webp"
+    },
+    {
+      "reference": "E1",
+      "category": "primeros",
+      "name": {
+        "es": "Takoyaki",
+        "en": "Takoyaki"
+      },
+      "description": {
+        "es": "Fantásticas bolitas de pulpo y salsa takoyaki 2u",
+        "en": "Fantastic octopus balls takoyaki sauce 2u."
+      },
+      "portion": {
+        "es": "",
+        "en": ""
+      },
+      "allergens": [
+        "gluten",
+        "sesame",
+        "egg",
+        "molluscs",
+        "soy"
+      ],
+      "sourcePage": 3,
+      "sourceDocument": "TOKYO MENU COMIDA O CENA.pdf",
+      "buffetStars": 0,
+      "twoPersons": false,
+      "isNew": false,
+      "image": "assets/dishes/lunch-e1.webp"
+    },
+    {
+      "reference": "GY22",
+      "category": "primeros",
+      "name": {
+        "es": "Butaman",
+        "en": "Butaman"
+      },
+      "description": {
+        "es": "Ravioli con carne 3U.",
+        "en": "Ravioli with meat 3U."
+      },
+      "portion": {
+        "es": "",
+        "en": ""
+      },
+      "allergens": null,
+      "sourcePage": 3,
+      "sourceDocument": "TOKYO MENU COMIDA O CENA.pdf",
+      "buffetStars": 0,
+      "twoPersons": false,
+      "isNew": false,
+      "image": "assets/dishes/lunch-gy22.webp"
+    },
+    {
+      "reference": "ES14",
+      "category": "primeros",
+      "name": {
+        "es": "Wakame sarada",
+        "en": "Wakame sarada"
+      },
+      "description": {
+        "es": "Ensalada de alga",
+        "en": "Seaweed salad"
+      },
+      "portion": {
+        "es": "",
+        "en": ""
+      },
+      "allergens": [
+        "soy",
+        "sesame"
+      ],
+      "sourcePage": 4,
+      "sourceDocument": "TOKYO MENU COMIDA O CENA.pdf",
+      "buffetStars": 0,
+      "twoPersons": false,
+      "isNew": false,
+      "image": "assets/dishes/lunch-es14.webp"
+    },
+    {
+      "reference": "ES17",
+      "category": "primeros",
+      "name": {
+        "es": "Shake abokado",
+        "en": "Shake abokado"
+      },
+      "description": {
+        "es": "Ensalada mezclum; salmón, aguacate, salsa de la casa y yuzu",
+        "en": "Mesclun salad; salmon and avocado and house sauce with yuzu"
+      },
+      "portion": {
+        "es": "",
+        "en": ""
+      },
+      "allergens": null,
+      "sourcePage": 4,
+      "sourceDocument": "TOKYO MENU COMIDA O CENA.pdf",
+      "buffetStars": 0,
+      "twoPersons": false,
+      "isNew": false,
+      "image": "assets/dishes/lunch-es17.webp"
+    },
+    {
+      "reference": "ES18",
+      "category": "primeros",
+      "name": {
+        "es": "Wakameabokado",
+        "en": "Wakameabokado"
+      },
+      "description": {
+        "es": "Ensalada mezclum con wakame y aguacate",
+        "en": "Mesclun salad, with wakame and avocado"
+      },
+      "portion": {
+        "es": "",
+        "en": ""
+      },
+      "allergens": null,
+      "sourcePage": 4,
+      "sourceDocument": "TOKYO MENU COMIDA O CENA.pdf",
+      "buffetStars": 0,
+      "twoPersons": false,
+      "isNew": false,
+      "image": "assets/dishes/lunch-es18.webp"
+    },
+    {
+      "reference": "ES12",
+      "category": "primeros",
+      "name": {
+        "es": "Maguro abokado",
+        "en": "Maguro abokado"
+      },
+      "description": {
+        "es": "Ensalada mezclum con atún, aguacate, salsa de la casa y yuzu",
+        "en": "Mesclun salad with tuna, avocado and house sauce with yuzu"
+      },
+      "portion": {
+        "es": "",
+        "en": ""
+      },
+      "allergens": null,
+      "sourcePage": 4,
+      "sourceDocument": "TOKYO MENU COMIDA O CENA.pdf",
+      "buffetStars": 0,
+      "twoPersons": false,
+      "isNew": false,
+      "image": "assets/dishes/lunch-es12.webp"
+    },
+    {
+      "reference": "E11",
+      "category": "primeros",
+      "name": {
+        "es": "Edamame",
+        "en": "Edamame"
+      },
+      "description": {
+        "es": "Soja verde con sal",
+        "en": "Green soybeans with salt"
+      },
+      "portion": {
+        "es": "",
+        "en": ""
+      },
+      "allergens": [
+        "soy"
+      ],
+      "sourcePage": 4,
+      "sourceDocument": "TOKYO MENU COMIDA O CENA.pdf",
+      "buffetStars": 0,
+      "twoPersons": false,
+      "isNew": false,
+      "image": "assets/dishes/lunch-e11.webp"
+    },
+    {
+      "reference": "ES13",
+      "category": "primeros",
+      "name": {
+        "es": "Ebi shake sarada",
+        "en": "Ebi shake sarada"
+      },
+      "description": {
+        "es": "Ensalada mezclum con salmón y gambas, salsa de la casa con yuzu",
+        "en": "Mesclun salad with salmon and shrimp, house sauce wiht yuzu"
+      },
+      "portion": {
+        "es": "",
+        "en": ""
+      },
+      "allergens": null,
+      "sourcePage": 5,
+      "sourceDocument": "TOKYO MENU COMIDA O CENA.pdf",
+      "buffetStars": 0,
+      "twoPersons": false,
+      "isNew": false,
+      "image": "assets/dishes/lunch-es13.webp"
+    },
+    {
+      "reference": "S112",
+      "category": "primeros",
+      "name": {
+        "es": "Espinaca misoshiru",
+        "en": "Espinaca misoshiru"
+      },
+      "description": {
+        "es": "Sopa de miso con espinaca.",
+        "en": "Miso soup with spinach."
+      },
+      "portion": {
+        "es": "",
+        "en": ""
+      },
+      "allergens": [
+        "soy",
+        "sesame"
+      ],
+      "sourcePage": 5,
+      "sourceDocument": "TOKYO MENU COMIDA O CENA.pdf",
+      "buffetStars": 0,
+      "twoPersons": false,
+      "isNew": false,
+      "image": "assets/dishes/lunch-s112.webp"
+    },
+    {
+      "reference": "S110",
+      "category": "primeros",
+      "name": {
+        "es": "Tofu misoshiru",
+        "en": "Tofu misoshiru"
+      },
+      "description": {
+        "es": "Sopa de miso con tofu",
+        "en": "Miso soup with tofu"
+      },
+      "portion": {
+        "es": "",
+        "en": ""
+      },
+      "allergens": [
+        "soy",
+        "sesame"
+      ],
+      "sourcePage": 5,
+      "sourceDocument": "TOKYO MENU COMIDA O CENA.pdf",
+      "buffetStars": 0,
+      "twoPersons": false,
+      "isNew": false,
+      "image": "assets/dishes/lunch-s110.webp"
+    },
+    {
+      "reference": "S111",
+      "category": "primeros",
+      "name": {
+        "es": "Misoshiru",
+        "en": "Misoshiru"
+      },
+      "description": {
+        "es": "Sopa de miso con almejas y algas",
+        "en": "Miso soup with clams and seaweed."
+      },
+      "portion": {
+        "es": "",
+        "en": ""
+      },
+      "allergens": [
+        "soy",
+        "molluscs"
+      ],
+      "sourcePage": 5,
+      "sourceDocument": "TOKYO MENU COMIDA O CENA.pdf",
+      "buffetStars": 0,
+      "twoPersons": false,
+      "isNew": false,
+      "image": "assets/dishes/lunch-s111.webp"
+    },
+    {
+      "reference": "GY23",
+      "category": "primeros",
+      "name": {
+        "es": "Dimsum",
+        "en": "Dimsum"
+      },
+      "description": {
+        "es": "3 hakao cantoneses rellenos de gamba picada, en caldo katsuobushi",
+        "en": "3 cantonese har gow dumplings filled with minced shrimp, in katsuobushi broth."
+      },
+      "portion": {
+        "es": "",
+        "en": ""
+      },
+      "allergens": null,
+      "sourcePage": 5,
+      "sourceDocument": "TOKYO MENU COMIDA O CENA.pdf",
+      "buffetStars": 0,
+      "twoPersons": false,
+      "isNew": false,
+      "image": "assets/dishes/lunch-gy23.webp"
+    },
+    {
+      "reference": "UD141",
+      "category": "segundos",
+      "name": {
+        "es": "Tonkatsu ramen",
+        "en": "Tonkatsu ramen"
+      },
+      "description": {
+        "es": "Ramen con pechuga de pollo rebozada y narutomaki",
+        "en": "Noodles with breaded chicken breast"
+      },
+      "portion": {
+        "es": "",
+        "en": ""
+      },
+      "allergens": [
+        "gluten",
+        "egg",
+        "soy"
+      ],
+      "sourcePage": 6,
+      "sourceDocument": "TOKYO MENU COMIDA O CENA.pdf",
+      "buffetStars": 0,
+      "twoPersons": false,
+      "isNew": false,
+      "image": "assets/dishes/lunch-ud141.webp"
+    },
+    {
+      "reference": "M157",
+      "category": "segundos",
+      "name": {
+        "es": "Katsudon",
+        "en": "Katsudon"
+      },
+      "description": {
+        "es": "Pollo empanado con huevo y cebolla sobre cama de arroz",
+        "en": "Breaded chicken with egg and onion on a bed of rice"
+      },
+      "portion": {
+        "es": "",
+        "en": ""
+      },
+      "allergens": [
+        "soy",
+        "gluten",
+        "sesame",
+        "egg"
+      ],
+      "sourcePage": 6,
+      "sourceDocument": "TOKYO MENU COMIDA O CENA.pdf",
+      "buffetStars": 0,
+      "twoPersons": false,
+      "isNew": false,
+      "image": "assets/dishes/lunch-m157.webp"
+    },
+    {
+      "reference": "M156",
+      "category": "segundos",
+      "name": {
+        "es": "Teriyaki de pollo con arroz",
+        "en": "Teriyaki de pollo con arroz"
+      },
+      "description": {
+        "es": "Pollo, cebolla, salsa teriyaki con arroz",
+        "en": "Chicken, onion, teriyaki sauce with rice"
+      },
+      "portion": {
+        "es": "",
+        "en": ""
+      },
+      "allergens": [
+        "soy",
+        "sesame",
+        "gluten"
+      ],
+      "sourcePage": 6,
+      "sourceDocument": "TOKYO MENU COMIDA O CENA.pdf",
+      "buffetStars": 0,
+      "twoPersons": false,
+      "isNew": false,
+      "image": "assets/dishes/lunch-m156.webp"
+    },
+    {
+      "reference": "M155",
+      "category": "segundos",
+      "name": {
+        "es": "Yakisoba",
+        "en": "Yakisoba"
+      },
+      "description": {
+        "es": "Tallarines con gambas y verdura mixta",
+        "en": "Noodles with prawns and mixed vegetables"
+      },
+      "portion": {
+        "es": "",
+        "en": ""
+      },
+      "allergens": [
+        "soy",
+        "sesame",
+        "gluten",
+        "crustaceans"
+      ],
+      "sourcePage": 6,
+      "sourceDocument": "TOKYO MENU COMIDA O CENA.pdf",
+      "buffetStars": 0,
+      "twoPersons": false,
+      "isNew": false,
+      "image": "assets/dishes/lunch-m155.webp"
+    },
+    {
+      "reference": "M158",
+      "category": "segundos",
+      "name": {
+        "es": "Pollo estilo thai",
+        "en": "Pollo estilo thai"
+      },
+      "description": {
+        "es": "Pollo con salsa de curry picante, arroz (opcional)",
+        "en": "Chicken with spicy curry sauce, rice (optional)"
+      },
+      "portion": {
+        "es": "",
+        "en": ""
+      },
+      "allergens": [
+        "sesame"
+      ],
+      "sourcePage": 6,
+      "sourceDocument": "TOKYO MENU COMIDA O CENA.pdf",
+      "buffetStars": 0,
+      "twoPersons": false,
+      "isNew": false,
+      "image": "assets/dishes/lunch-m158.webp"
+    },
+    {
+      "reference": "CR139",
+      "category": "segundos",
+      "name": {
+        "es": "Langostinos ebi chili",
+        "en": "Langostinos ebi chili"
+      },
+      "description": {
+        "es": "Langostinos con verduras de temporada y salsa de chili.",
+        "en": "Prawns with seasonal vegetables and chili sauce."
+      },
+      "portion": {
+        "es": "",
+        "en": ""
+      },
+      "allergens": [
+        "sesame"
+      ],
+      "sourcePage": 6,
+      "sourceDocument": "TOKYO MENU COMIDA O CENA.pdf",
+      "buffetStars": 0,
+      "twoPersons": false,
+      "isNew": false,
+      "image": "assets/dishes/lunch-cr139.webp"
+    },
+    {
+      "reference": "UD163",
+      "category": "segundos",
+      "name": {
+        "es": "Duck chow mein",
+        "en": "Duck chow mein"
+      },
+      "description": {
+        "es": "Pato con tallarines y verdura",
+        "en": "Duck with noodles and vegetables"
+      },
+      "portion": {
+        "es": "",
+        "en": ""
+      },
+      "allergens": [
+        "soy",
+        "gluten",
+        "sesame"
+      ],
+      "sourcePage": 7,
+      "sourceDocument": "TOKYO MENU COMIDA O CENA.pdf",
+      "buffetStars": 0,
+      "twoPersons": false,
+      "isNew": false,
+      "image": "assets/dishes/lunch-ud163.webp"
+    },
+    {
+      "reference": "DR106",
+      "category": "segundos",
+      "name": {
+        "es": "Kamo donburi",
+        "en": "Kamo donburi"
+      },
+      "description": {
+        "es": "Carne de la pechuga de pato sobre cama de arroz",
+        "en": "Meat of duck breast on a bed of rice"
+      },
+      "portion": {
+        "es": "",
+        "en": ""
+      },
+      "allergens": null,
+      "sourcePage": 7,
+      "sourceDocument": "TOKYO MENU COMIDA O CENA.pdf",
+      "buffetStars": 0,
+      "twoPersons": false,
+      "isNew": false,
+      "image": "assets/dishes/lunch-dr106.webp"
+    },
+    {
+      "reference": "DR104",
+      "category": "segundos",
+      "name": {
+        "es": "Gyudon",
+        "en": "Gyudon"
+      },
+      "description": {
+        "es": "Ternera sobre cama de arroz",
+        "en": "Veal on a bed of rice"
+      },
+      "portion": {
+        "es": "",
+        "en": ""
+      },
+      "allergens": [
+        "soy",
+        "sesame",
+        "gluten"
+      ],
+      "sourcePage": 7,
+      "sourceDocument": "TOKYO MENU COMIDA O CENA.pdf",
+      "buffetStars": 0,
+      "twoPersons": false,
+      "isNew": false,
+      "image": "assets/dishes/lunch-dr104.webp"
+    },
+    {
+      "reference": "CR128",
+      "category": "segundos",
+      "name": {
+        "es": "Yakiniku",
+        "en": "Yakiniku"
+      },
+      "description": {
+        "es": "Entrecot de ternera con salsa yakiniku.",
+        "en": "Beef entrecôte with yakiniku sauce."
+      },
+      "portion": {
+        "es": "",
+        "en": ""
+      },
+      "allergens": [
+        "gluten",
+        "sesame",
+        "soy"
+      ],
+      "sourcePage": 7,
+      "sourceDocument": "TOKYO MENU COMIDA O CENA.pdf",
+      "buffetStars": 0,
+      "twoPersons": false,
+      "isNew": false,
+      "image": "assets/dishes/lunch-cr128.webp"
+    },
+    {
+      "reference": "MR131",
+      "category": "segundos",
+      "name": {
+        "es": "Ika syogayaki",
+        "en": "Ika syogayaki"
+      },
+      "description": {
+        "es": "Calamares a la plancha en salsa de jengibre “shoga”",
+        "en": "Grilled squid in ginger sauce “shoga”"
+      },
+      "portion": {
+        "es": "",
+        "en": ""
+      },
+      "allergens": [
+        "soy",
+        "molluscs",
+        "gluten"
+      ],
+      "sourcePage": 7,
+      "sourceDocument": "TOKYO MENU COMIDA O CENA.pdf",
+      "buffetStars": 0,
+      "twoPersons": false,
+      "isNew": false,
+      "image": "assets/dishes/lunch-mr131.webp"
+    },
+    {
+      "reference": "M161",
+      "category": "segundos",
+      "name": {
+        "es": "Donburi salmón teriyaki",
+        "en": "Donburi salmón teriyaki"
+      },
+      "description": {
+        "es": "Salmón con arroz.",
+        "en": "Salmon with rice."
+      },
+      "portion": {
+        "es": "",
+        "en": ""
+      },
+      "allergens": [
+        "sesame",
+        "soy",
+        "gluten",
+        "fish"
+      ],
+      "sourcePage": 7,
+      "sourceDocument": "TOKYO MENU COMIDA O CENA.pdf",
+      "buffetStars": 0,
+      "twoPersons": false,
+      "isNew": false,
+      "image": "assets/dishes/lunch-m161.webp"
+    },
+    {
+      "reference": "CM170",
+      "category": "sushi",
+      "name": {
+        "es": "Mix sushi hoso 12u.",
+        "en": "Mix sushi hoso 12u."
+      },
+      "description": {
+        "es": "2x sushi salmón, 2x sushi atún, 2x sushi gambas, 6 x hosomaki de salmón",
+        "en": "2x salmon sushi, tuna sushi 2x, 2x sushi shrimp, 6 x hosomaki salmon"
+      },
+      "portion": {
+        "es": "",
+        "en": ""
+      },
+      "allergens": [
+        "fish",
+        "crustaceans"
+      ],
+      "sourcePage": 8,
+      "sourceDocument": "TOKYO MENU COMIDA O CENA.pdf",
+      "buffetStars": 0,
+      "twoPersons": false,
+      "isNew": false,
+      "image": "assets/dishes/lunch-cm170.webp"
+    },
+    {
+      "reference": "CM171",
+      "category": "sushi",
+      "name": {
+        "es": "Mix samo ebi 12u.",
+        "en": "Mix samo ebi 12u."
+      },
+      "description": {
+        "es": "4x sushi salmón, 4x sushi gambas, 4x california",
+        "en": "4x salmon sushi, 4x shrimp sushi, 4x california"
+      },
+      "portion": {
+        "es": "",
+        "en": ""
+      },
+      "allergens": [
+        "fish",
+        "sesame",
+        "gluten",
+        "crustaceans"
+      ],
+      "sourcePage": 8,
+      "sourceDocument": "TOKYO MENU COMIDA O CENA.pdf",
+      "buffetStars": 0,
+      "twoPersons": false,
+      "isNew": false,
+      "image": "assets/dishes/lunch-cm171.webp"
+    },
+    {
+      "reference": "CM172",
+      "category": "sushi",
+      "name": {
+        "es": "Mix samo hoso 14u.",
+        "en": "Mix samo hoso 14u."
+      },
+      "description": {
+        "es": "2x sushi salmón, 2x sushi gambas, 4x california, 6x kapa maki",
+        "en": "2x salmon sushi, 2x shrimp sushi, 4x california, 6x kapa maki"
+      },
+      "portion": {
+        "es": "",
+        "en": ""
+      },
+      "allergens": [
+        "fish",
+        "sesame",
+        "gluten",
+        "crustaceans"
+      ],
+      "sourcePage": 8,
+      "sourceDocument": "TOKYO MENU COMIDA O CENA.pdf",
+      "buffetStars": 0,
+      "twoPersons": false,
+      "isNew": false,
+      "image": "assets/dishes/lunch-cm172.webp"
+    },
+    {
+      "reference": "CM173",
+      "category": "sushi",
+      "name": {
+        "es": "Mix hosomaki 18u.",
+        "en": "Mix hosomaki 18u."
+      },
+      "description": {
+        "es": "6x atún maki, 6x aguacate maki, 6x salmón maki",
+        "en": "6x tuna maki, avocado maki 6x, 6x salmon maki"
+      },
+      "portion": {
+        "es": "",
+        "en": ""
+      },
+      "allergens": [
+        "fish"
+      ],
+      "sourcePage": 8,
+      "sourceDocument": "TOKYO MENU COMIDA O CENA.pdf",
+      "buffetStars": 0,
+      "twoPersons": false,
+      "isNew": false,
+      "image": "assets/dishes/lunch-cm173.webp"
+    },
+    {
+      "reference": "CM174",
+      "category": "sushi",
+      "name": {
+        "es": "Mix max 14 u.",
+        "en": "Mix max 14 u."
+      },
+      "description": {
+        "es": "2x ebi, 2x saba, 2x shakeburi, 4x shake , 2x manteguia, 2x maguro",
+        "en": "2x ebi, 2x saba, 2x shakeburi, 4x shake, 2x manteguia, 2x maguro"
+      },
+      "portion": {
+        "es": "",
+        "en": ""
+      },
+      "allergens": [
+        "sesame",
+        "soy",
+        "gluten",
+        "fish"
+      ],
+      "sourcePage": 8,
+      "sourceDocument": "TOKYO MENU COMIDA O CENA.pdf",
+      "buffetStars": 0,
+      "twoPersons": false,
+      "isNew": false,
+      "image": "assets/dishes/lunch-cm174.webp"
+    },
+    {
+      "reference": "CM175",
+      "category": "sushi",
+      "name": {
+        "es": "Mix sashimi 18u.",
+        "en": "Mix sashimi 18u."
+      },
+      "description": {
+        "es": "2x sushi salmón, 2 atún sushi, 2x sushi gambas, 6x salmón maki, 3x atún sashimi, 3x salmón sashim",
+        "en": "2x salmon sushi, 2 tuna sushi, shrimp sushi 2x, 6x salmon maki, tuna sashimi 3x, 3x salmon sashimi"
+      },
+      "portion": {
+        "es": "",
+        "en": ""
+      },
+      "allergens": [
+        "fish",
+        "crustaceans"
+      ],
+      "sourcePage": 8,
+      "sourceDocument": "TOKYO MENU COMIDA O CENA.pdf",
+      "buffetStars": 0,
+      "twoPersons": false,
+      "isNew": false,
+      "image": "assets/dishes/lunch-cm175.webp"
+    }
+  ],
+  "dinnerSupplement": 3,
+  "services": [
+    {
+      "id": "lunch",
+      "label": {
+        "es": "Comida",
+        "en": "Lunch"
+      },
+      "availability": {
+        "es": "De lunes a viernes · Excepto festivos",
+        "en": "Monday to Friday · Excluding public holidays"
+      },
+      "supplement": 0
+    },
+    {
+      "id": "dinner",
+      "label": {
+        "es": "Cena",
+        "en": "Dinner"
+      },
+      "availability": {
+        "es": "De lunes a jueves · Excepto festivos · Suplemento de 3 € incluido",
+        "en": "Monday to Thursday · Excluding public holidays · €3 supplement included"
+      },
+      "supplement": 3
+    }
+  ]
+}

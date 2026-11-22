@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta name="theme-color" content="#232522" />
+    <meta
+      name="description"
+      content="TOKYO Alicante: buffet, carta, menú comida o cena y bebidas."
+    />
+    <title>TOKYO · Alicante</title>
+    <link rel="icon" href="data:," />
+    <script src="js/theme.js"></script>
+    <link rel="stylesheet" href="css/styles.css" />
+    <script type="module" src="js/home.js"></script>
+  </head>
+  <body class="home-page">
+    <header class="masthead">
+      <div class="header-inner">
+        <a class="brand" href="index.html" aria-label="TOKYO · Inicio"
+          ><img
+            src="assets/brand/tokyo.png"
+            alt="TOKYO Restaurante"
+            width="200"
+            height="90"
+        /></a>
+        <div class="header-right">
+          <button
+            id="theme-toggle"
+            class="theme-toggle"
+            type="button"
+            aria-label="Cambiar a modo oscuro"
+          >
+            ☾ Oscuro
+          </button>
+          <div class="languages" role="group" aria-label="Idioma / Language">
+            <button
+              type="button"
+              data-language="es"
+              aria-pressed="true"
+              lang="es"
+            >
+              ES</button
+            ><span aria-hidden="true">/</span
+            ><button
+              type="button"
+              data-language="en"
+              aria-pressed="false"
+              lang="en"
+            >
+              EN
+            </button>
+          </div>
+        </div>
+      </div>
+    </header>
+    <main class="home-main">
+      <h1 class="sr-only" data-i18n="homeTitle">
+        TOKYO · Elige tu experiencia
+      </h1>
+      <p class="home-welcome" data-i18n="choose">
+        ¿Cómo te apetece disfrutar hoy?
+      </p>
+      <nav class="experience-menu" aria-label="Modalidades">
+        <a class="experience-button nye-entry" href="index_tokyo.html">
+          <span class="nye-entry-icon" aria-hidden="true">✦</span>
+          <span><strong data-i18n="nyeTitle">CENA DE NOCHEVIEJA</strong><small data-i18n="nyeHint">49 € · Buffet libre y bebida ilimitada</small></span>
+          <span aria-hidden="true">↗</span>
+        </a>
+        <a class="experience-button" href="menu.html?mode=buffet"
+          ><img src="assets/categories/bowl.svg" alt="" /><span
+            ><strong>ALL YOU CAN EAT</strong
+            ><small data-i18n="buffetHint"
+              >Rondas ilimitadas · A tu ritmo</small
+            ></span
+          ><span aria-hidden="true">↗</span></a
+        >
+        <a class="experience-button" href="menu.html?mode=carta"
+          ><img src="assets/categories/sushi.svg" alt="" /><span
+            ><strong data-i18n="cartaTitle">LA CARTA</strong
+            ><small data-i18n="cartaHint">Elige cada plato</small></span
+          ><span aria-hidden="true">↗</span></a
+        >
+        <a class="experience-button" href="menu.html?mode=lunch"
+          ><img src="assets/categories/starter.svg" alt="" /><span
+            ><strong data-i18n="lunchTitle">TOKYO MENÚ COMIDA O CENA</strong
+            ><small data-i18n="lunchHint"
+              >Comida: L–V · Cena: L–J (+3 €)</small
+            ></span
+          ><span aria-hidden="true">↗</span></a
+        >
+        <a class="experience-button" href="menu.html?mode=drinks"
+          ><img src="assets/categories/cocktail.svg" alt="" /><span
+            ><strong data-i18n="drinksTitle">BEBIDAS</strong
+            ><small data-i18n="drinksHint"
+              >Para acompañar cada momento</small
+            ></span
+          ><span aria-hidden="true">↗</span></a
+        >
+      </nav>
+
+    </main>
+    <footer>
+      <span>TOKYO <span class="footer-divider">/</span> ALICANTE</span
+      ><a href="#" data-i18n="top">Volver arriba ↑</a>
+    </footer>
+    <dialog id="nye-promo" class="nye-promo" aria-labelledby="nye-promo-title" aria-describedby="nye-promo-details">
+      <button type="button" class="nye-close" autofocus><span aria-hidden="true">×</span><span class="sr-only" data-i18n="nyeClose">Cerrar anuncio de Nochevieja</span></button>
+      <a class="nye-poster" href="index_tokyo.html" aria-labelledby="nye-promo-title nye-promo-details">
+        <h2 id="nye-promo-title"><span data-i18n="nyeDinner">Cena de</span><em data-i18n="nyeNight">Nochevieja</em></h2>
+        <div class="nye-offer" id="nye-promo-details">
+          <p class="nye-price"><span>49</span><span class="nye-cents">,00</span><span class="nye-euro">€</span></p>
+          <p class="nye-person" data-i18n="nyePerson">POR PERSONA · IVA INCLUIDO</p>
+          <p class="nye-buffet" data-i18n="nyeBuffet">BUFFET LIBRE</p>
+          <p class="nye-english">ALL YOU CAN EAT</p>
+          <p class="nye-drinks" data-i18n="nyeDrinks">BEBIDA ILIMITADA</p>
+        </div>
+      </a>
+    </dialog>
+    <span
+      id="language-status"
+      class="sr-only"
+      role="status"
+      aria-live="polite"
+    ></span>
+  </body>
+</html>

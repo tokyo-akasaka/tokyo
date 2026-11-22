@@ -1,0 +1,14 @@
+{
+  "name": "tokyo-carta-digital",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Carta digital del restaurante TOKYO. JavaScript, HTML y CSS estáticos.",
+  "scripts": {
+    "dev": "node scripts/serve.cjs",
+    "test": "node scripts/check-site.cjs",
+    "test:nochevieja": "node scripts/check-nochevieja.cjs"
+  },
+  "devDependencies": {
+    "playwright": "1.62.1"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "allergensAwaitingReview": {
+    "carta": [
+      "E3",
+      "ES12",
+      "ES13",
+      "ES17",
+      "ES18",
+      "CR93"
+    ],
+    "comidaCena": [
+      "E6",
+      "E21",
+      "E3",
+      "ES20",
+      "E5",
+      "E28",
+      "GY22",
+      "ES17",
+      "ES18",
+      "ES12",
+      "ES13",
+      "GY23",
+      "DR106"
+    ]
+  },
+  "sourceDiscrepancies": [
+    {
+      "reference": "SM109",
+      "issue": "El original dice angula y tipico. Confirmar denominación e ingredientes; se conserva el texto original."
+    },
+    {
+      "reference": "SM107",
+      "issue": "El texto inglés de origen describe atún, pero el español y el nombre indican salmón. Inglés corregido para coincidir con el español."
+    },
+    {
+      "reference": "CR139",
+      "issue": "La misma referencia identifica langostinos Thai en carta y Ebi Chili en menú comida/cena. Se mantienen recetas separadas."
+    },
+    {
+      "reference": "PS191",
+      "issue": "El PDF muestra un símbolo de gluten junto a piña natural. Se conserva la información impresa; confirmar con restaurante."
+    },
+    {
+      "reference": "PS184",
+      "issue": "El original contiene dos opciones de mango (con/sin gluten). Se muestra mango sin afirmar ausencia de alérgenos; confirmar variantes y alérgenos por sabor."
+    }
+  ]
+}
