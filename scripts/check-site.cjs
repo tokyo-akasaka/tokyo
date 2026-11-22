@@ -25,8 +25,9 @@ const base=process.env.TOKYO_PREVIEW_URL||'http://127.0.0.1:8021';
   assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),`${mode} overflow`);
   if(mode==='buffet'){await page.locator('#conditions-open').click();assert.ok(await page.locator('#conditions-dialog').evaluate(e=>e.open));await page.locator('#conditions-close').click();}
   if(mode==='lunch'){
+   await page.getByRole('button',{name:'MENÚ COMIDA',exact:true}).click();
    assert.match(await page.locator('#mode-summary').innerText(),/16,90/);
-   await page.getByRole('button',{name:'Cena',exact:true}).click();const dinner=await page.locator('#mode-summary').innerText();assert.match(dinner,/19,90/);assert.match(dinner,/20,90/);assert.match(dinner,/lunes a jueves/);
+   await page.getByRole('button',{name:'MENÚ CENA',exact:true}).click();const dinner=await page.locator('#mode-summary').innerText();assert.match(dinner,/19,90/);assert.match(dinner,/20,90/);assert.match(dinner,/lunes a jueves/);
    await page.screenshot({path:`${root}/tmp/menu-cena-mobile.png`});
    await page.locator('[data-language="en"]').click();assert.match(await page.locator('#mode-summary').innerText(),/Monday to Thursday/);
    await page.locator('#theme-toggle').click();

@@ -35,6 +35,14 @@
         "en": "Mains · Sushi"
       },
       "icon": "sushi"
+    },
+    {
+      "id": "postres",
+      "name": {
+        "es": "Postre",
+        "en": "Dessert"
+      },
+      "icon": "dessert"
     }
   ],
   "dishes": [
@@ -1043,6 +1051,29 @@
       "twoPersons": false,
       "isNew": false,
       "image": "assets/dishes/lunch-cm175.webp"
+    },
+    {
+      "reference": "helado-con-gyoza",
+      "showReference": false,
+      "category": "postres",
+      "name": {
+        "es": "Helado con gyoza",
+        "en": "Ice cream with gyoza"
+      },
+      "description": {
+        "es": "Helado acompañado de gyoza.",
+        "en": "Ice cream served with gyoza."
+      },
+      "image": "assets/dishes/lunch-helado-con-gyoza.webp",
+      "portion": {
+        "es": "",
+        "en": ""
+      },
+      "twoPersons": false,
+      "allergens": null,
+      "isNew": false,
+      "sourceType": "manual",
+      "sourceImage": "helado con gyoza.png"
     }
   ],
   "dinnerSupplement": 3,
@@ -1050,8 +1081,8 @@
     {
       "id": "lunch",
       "label": {
-        "es": "Comida",
-        "en": "Lunch"
+        "es": "MENÚ COMIDA",
+        "en": "LUNCH MENU"
       },
       "availability": {
         "es": "De lunes a viernes · Excepto festivos",
@@ -1062,12 +1093,12 @@
     {
       "id": "dinner",
       "label": {
-        "es": "Cena",
-        "en": "Dinner"
+        "es": "MENÚ CENA",
+        "en": "DINNER MENU"
       },
       "availability": {
-        "es": "De lunes a jueves · Excepto festivos · Suplemento de 3 € incluido",
-        "en": "Monday to Thursday · Excluding public holidays · €3 supplement included"
+        "es": "De lunes a jueves · Excepto festivos",
+        "en": "Monday to Thursday · Excluding public holidays"
       },
       "supplement": 3
     }

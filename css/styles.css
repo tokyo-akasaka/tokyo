@@ -500,3 +500,23 @@ body:has(.audio-dock:not([hidden])){padding-bottom:110px}
 /* Distintivo original: visible solo para la variedad seleccionada sin gluten. */
 .dish-media{position:relative}
 .gluten-free-badge{position:absolute;right:8px;bottom:8px;width:64px;height:54px;background:url('../assets/icons/gluten-free.webp') center/contain no-repeat;z-index:1;pointer-events:none}
+
+/* Comida/cena: selector vertical a la izquierda y precios a la derecha. */
+.meal-layout{display:grid;grid-template-columns:132px minmax(0,1fr);gap:24px;align-items:start}
+.meal-layout .meal-services{display:flex;flex-direction:column;gap:12px;margin:0;flex-wrap:nowrap}
+.meal-layout .meal-service{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:3px;width:100%;min-height:82px;padding:14px 8px;border-radius:8px;font-size:16px;font-weight:700;line-height:1.2;letter-spacing:.04em}
+.meal-prices{min-width:0}
+.meal-prices .lunch-rates{grid-template-columns:1fr;gap:18px}
+.meal-prices .rate-card{display:flex;flex-direction:column;gap:5px}
+.meal-prices .eyebrow{margin:18px 0 0;line-height:1.6;letter-spacing:.08em}
+.meal-layout+.lunch-choice{margin:20px 0 0;line-height:1.6}
+@media(max-width:599px){.meal-layout{grid-template-columns:100px minmax(0,1fr);gap:16px}.meal-layout .meal-service{min-height:80px;font-size:14px}.meal-prices .rate-price{font-size:26px}.meal-prices .rate-card span{font-size:11px;line-height:1.4}}
+@media(max-width:359px){.meal-layout{grid-template-columns:84px minmax(0,1fr);gap:10px}.meal-layout .meal-service{font-size:12px}.meal-prices .rate-price{font-size:22px}}
+
+/* Estado del servicio: gris elevado disponible / vino oscuro hundido seleccionado. */
+.meal-layout .meal-service{background:#dededb;border-color:#aaa9a4;color:#343431;box-shadow:0 4px 0 #aaa9a4,0 6px 10px #00000018;transition:background-color .15s,box-shadow .15s,transform .15s}
+.meal-layout .meal-service[aria-pressed=false]:hover{background:#eaeae6;box-shadow:0 4px 0 #aaa9a4,0 7px 12px #00000022}
+.meal-layout .meal-service[aria-pressed=true]{background:#591a2b;border-color:#3e1020;color:#fff;box-shadow:inset 0 3px 6px #0005,0 1px 2px #0002;transform:translateY(2px)}
+:root[data-theme=dark] .meal-layout .meal-service[aria-pressed=false]{background:#494946;border-color:#70706a;color:#f4f3ed;box-shadow:0 4px 0 #292925,0 6px 10px #0004}
+:root[data-theme=dark] .meal-layout .meal-service[aria-pressed=false]:hover{background:#565650}
+@media(prefers-reduced-motion:reduce){.meal-layout .meal-service{transition:none}}

@@ -6,7 +6,9 @@ const requestedMode=new URLSearchParams(location.search).get('mode');
 const mode=['buffet','carta','lunch','drinks'].includes(requestedMode)?requestedMode:'carta';
 document.body.dataset.mode=mode;
 let language=initialLanguage(), data,activeCategory;
-let mealService=new URLSearchParams(location.search).get('service')==='dinner'?'dinner':'lunch';
+// Selección inicial por la hora local del dispositivo; después manda la elección manual.
+function initialMealService(now=new Date()){return now.getHours()*60+now.getMinutes()<=17*60?'lunch':'dinner';}
+let mealService=initialMealService();
 const host=document.querySelector('#menu'),rail=document.querySelector('#category-rail'),topNav=document.querySelector('#categories'),dialog=document.querySelector('#conditions-dialog');
 const t=()=>translations[language];
 function setGlutenFreeBadge(media,visible){
@@ -63,9 +65,9 @@ function renderSummary(){
  if(mode==='buffet'){summary.append(rateCards(),node('p','summary-copy',t().buffetShort));const detail=node('button','text-button',t().conditions);detail.type='button';detail.addEventListener('click',openConditions);const drinks=node('a','text-button',t().buffetDrinks);drinks.href='menu.html?mode=drinks';const actions=node('div','summary-actions');actions.append(detail,drinks);summary.append(actions);}
  if(mode==='lunch'){
   const controls=node('div','meal-services');controls.setAttribute('role','group');controls.setAttribute('aria-label',t().mealService);
-  data.lunch.services.forEach(service=>{const button=node('button','meal-service',service.label[language]);button.type='button';button.setAttribute('aria-pressed',String(mealService===service.id));button.addEventListener('click',()=>{mealService=service.id;const url=new URL(location.href);url.searchParams.set('service',mealService);history.replaceState(null,'',url);renderSummary();});controls.append(button);});
-  const service=data.lunch.services.find(item=>item.id===mealService);summary.append(controls,node('p','eyebrow',service.availability[language]),node('p','lunch-choice',data.lunch.choice[language]));
-  const group=node('div','rate-cards lunch-rates');for(const [key,label] of [['standard','lunchStandard'],['sushi','lunchSushi']]){const rate=node('div','rate-card');rate.append(node('strong','rate-price',money(data.lunch.prices[key]+service.supplement)),node('span','',t()[label]));group.append(rate);}summary.append(group);
+  data.lunch.services.forEach(service=>{const button=node('button','meal-service');button.type='button';button.dataset.service=service.id;button.setAttribute('aria-label',service.label[language]);service.label[language].split(' ').forEach(line=>button.append(node('span','',line)));button.setAttribute('aria-pressed',String(mealService===service.id));button.addEventListener('click',()=>{mealService=service.id;const url=new URL(location.href);url.searchParams.set('service',mealService);history.replaceState(null,'',url);renderSummary();document.querySelector(`[data-service="${mealService}"]`).focus({preventScroll:true});});controls.append(button);});
+  const service=data.lunch.services.find(item=>item.id===mealService);const layout=node('div','meal-layout'),prices=node('div','meal-prices');prices.setAttribute('aria-live','polite');prices.setAttribute('aria-atomic','true');layout.append(controls,prices);
+  const group=node('div','rate-cards lunch-rates');for(const [key,label] of [['standard','lunchStandard'],['sushi','lunchSushi']]){const rate=node('div','rate-card');rate.append(node('strong','rate-price',money(data.lunch.prices[key]+service.supplement)),node('span','',t()[label]));group.append(rate);}prices.append(group,node('p','eyebrow',service.availability[language]));summary.append(layout,node('p','lunch-choice',data.lunch.choice[language]));
 
  }
 }
