@@ -2,7 +2,7 @@
 
 Proyecto independiente para la carta digital del restaurante TOKYO.
 
-Sitio estático en JavaScript, HTML y CSS que reproduce el diseño y funcionamiento de Akasaka con el logo y la carta de TOKYO. No requiere compilación ni servicios externos.
+Sitio estático en JavaScript, HTML y CSS. No requiere compilación ni servicios externos.
 
 ## Vista previa
 
