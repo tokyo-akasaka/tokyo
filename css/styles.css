@@ -462,7 +462,7 @@ body:has(.audio-dock:not([hidden])){padding-bottom:110px}
 .home-page .nye-entry small{color:#f1dfb6}
 .home-page .nye-entry-icon{width:30px;flex-shrink:0;text-align:center;color:#ffd478;font-size:30px}
 .home-page .nye-entry>span:last-child{color:#ffd478}
-.nye-promo{color-scheme:dark;width:min(550px,calc(100% - 24px));max-height:calc(100dvh - 24px);border:1px solid #bc8f43;border-radius:14px;padding:0;background:#160d07 url('../assets/nochevieja/fondo-fiesta.webp') center/100% 100%;color:#fff8e8;box-shadow:0 16px 80px #000a;overflow:auto}
+.nye-promo{margin:12px auto auto;top:0;bottom:auto;color-scheme:dark;width:min(550px,calc(100% - 24px));max-height:calc(100dvh - 24px);border:1px solid #bc8f43;border-radius:14px;padding:0;background:#160d07 url('../assets/nochevieja/fondo-fiesta.webp') center/100% 100%;color:#fff8e8;box-shadow:0 16px 80px #000a;overflow:auto}
 .nye-promo::backdrop{background:#000b;backdrop-filter:blur(4px)}
 .nye-close{position:absolute;right:10px;top:10px;display:grid;place-items:center;width:40px;height:40px;border:1px solid #e5bc7099;border-radius:50%;background:#180e08e6;color:#fff4dd;font-size:28px;line-height:1;cursor:pointer;z-index:2}
 .nye-close:hover{background:#5d4018}

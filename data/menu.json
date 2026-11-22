@@ -1177,8 +1177,10 @@
     "twoPersons": true,
     "isNew": false,
     "price": 8.0,
-    "image": "assets/dishes/tokyo-sh36.webp",
-    "spicy": true
+    "spicy": true,
+    "image": "assets/dishes/sh36-tokyo-reviewed.webp",
+    "imagePosition": "50% 50%",
+    "imageFilter": "none"
   },
   {
     "reference": "SH38",
@@ -1204,8 +1206,11 @@
     "twoPersons": false,
     "isNew": false,
     "price": 6.0,
-    "image": "assets/dishes/tokyo-sh38.webp",
-    "spicy": true
+    "spicy": true,
+    "image": "assets/dishes/sh38-tokyo-reviewed.webp",
+    "imagePosition": "50% 50%",
+    "imageFilter": "none",
+    "imageZoom": 1.22
   },
   {
     "reference": "SH40",
@@ -1232,7 +1237,9 @@
     "twoPersons": false,
     "isNew": false,
     "price": 5.0,
-    "image": "assets/dishes/tokyo-sh40.webp"
+    "image": "assets/dishes/sh40-tokyo-reviewed.webp",
+    "imagePosition": "50% 50%",
+    "imageFilter": "none"
   },
   {
     "reference": "SH31",
@@ -1338,7 +1345,12 @@
     "twoPersons": false,
     "isNew": false,
     "price": 5.0,
-    "image": "assets/dishes/tokyo-sh37.webp"
+    "image": "assets/dishes/sh37-tokyo-reviewed.webp",
+    "imagePosition": "50% 50%",
+    "imageFilter": "none",
+    "imageZoom": 1,
+    "imageOffsetX": 0,
+    "imageOffsetY": 0
   },
   {
     "reference": "SH39",

@@ -1,5 +1,5 @@
 {
-  "note": "24 fotografías verificadas en móvil y escritorio. Solo se modifican fotos y encuadres; los datos de platos permanecen independientes. E28 también comparte el encuadre en comida/cena.",
+  "note": "Fotografías revisadas en móvil y escritorio. Solo se modifican fotos y encuadres; los datos de platos permanecen independientes. E28 también comparte el encuadre en comida/cena.",
   "photos": [
     {
       "reference": "E28",
@@ -312,6 +312,54 @@
       "source": "/Users/basiliocristov/IH todo recovery/IH clientes recovery/TOKYO_AKASAKA_OCHA-YAKI /akasaka_web/assets/dishes/hm84-centered-original.webp",
       "image": "assets/dishes/hm84-tokyo-reviewed.webp",
       "method": "Misma fotografía original preparada y encuadre de Akasaka."
+    },
+    {
+      "reference": "SH36",
+      "source": "/Users/basiliocristov/IH todo recovery/IH clientes recovery/TOKYO_AKASAKA_OCHA-YAKI /akasaka_web/assets/dishes/sh36-crop-original.webp",
+      "image": "assets/dishes/sh36-tokyo-reviewed.webp",
+      "method": "Fotografía original preparada de Akasaka, con los mismos valores de encuadre.",
+      "settings": {
+        "image": "assets/dishes/sh36-tokyo-reviewed.webp",
+        "imagePosition": "50% 50%",
+        "imageFilter": "none"
+      }
+    },
+    {
+      "reference": "SH38",
+      "source": "/Users/basiliocristov/IH todo recovery/IH clientes recovery/TOKYO_AKASAKA_OCHA-YAKI /akasaka_web/assets/dishes/sh38-fondo-nigiri.webp",
+      "image": "assets/dishes/sh38-tokyo-reviewed.webp",
+      "method": "Fotografía original preparada de Akasaka, con los mismos valores de encuadre.",
+      "settings": {
+        "image": "assets/dishes/sh38-tokyo-reviewed.webp",
+        "imagePosition": "50% 50%",
+        "imageFilter": "none",
+        "imageZoom": 1.22
+      }
+    },
+    {
+      "reference": "SH40",
+      "source": "/Users/basiliocristov/IH todo recovery/IH clientes recovery/TOKYO_AKASAKA_OCHA-YAKI /akasaka_web/assets/dishes/sh40-crop-original.webp",
+      "image": "assets/dishes/sh40-tokyo-reviewed.webp",
+      "method": "Fotografía original preparada de Akasaka, con los mismos valores de encuadre.",
+      "settings": {
+        "image": "assets/dishes/sh40-tokyo-reviewed.webp",
+        "imagePosition": "50% 50%",
+        "imageFilter": "none"
+      }
+    },
+    {
+      "reference": "SH37",
+      "source": "/Users/basiliocristov/IH todo recovery/IH clientes recovery/TOKYO_AKASAKA_OCHA-YAKI /akasaka_web/assets/dishes/sh37-centered-original.webp",
+      "image": "assets/dishes/sh37-tokyo-reviewed.webp",
+      "method": "Original preparado de Akasaka; se elimina su zoom y desplazamiento para no cortar las piezas en TOKYO.",
+      "settings": {
+        "image": "assets/dishes/sh37-tokyo-reviewed.webp",
+        "imagePosition": "50% 50%",
+        "imageFilter": "none",
+        "imageZoom": 1,
+        "imageOffsetX": 0,
+        "imageOffsetY": 0
+      }
     }
   ]
 }
